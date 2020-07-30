@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Vis den opprinnelige engelske artikkelen: 3103336'
+  description: Microsoft SharePoint Server 2010 følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "830328"
+name: 'Vis den opprinnelige engelske artikkelen: 3103336'
+summary: >+
+  Microsoft SharePoint Server 2010 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+  Dette gjelder for følgende versjoner: Access Services, Alle gjeldende, Excel-tjenester, Performance Point Services
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Service Pack 2
+  startDate: 07/23/2013
+  endDate: 04/13/2021
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Overføringsveiledning](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Dette produktets slutt på støttedatoen er utvidet fra 13.\n\n## <a name=\"editions\"></a>Utgaver \n* Access Services\n* Alle gjeldende\n* Excel Services\n* Tjenester for ytelsespunkt"
