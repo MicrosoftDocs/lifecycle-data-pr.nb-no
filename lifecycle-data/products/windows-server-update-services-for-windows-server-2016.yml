@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Oppdateringstjenester for Windows Server for Windows Server-2016
+  description: Windows Server Update Services for Windows Server-2016 følger policyen for komponentlivssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 939c37245a4ed7263f746a3baac45b3105d89eda
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "830437"
+name: Oppdateringstjenester for Windows Server for Windows Server-2016
+summary: >+
+  Windows Server Update Services for Windows Server-2016 følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/15/2016
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "> [!TIP]\n> Denne komponenten følger livssyklusen til det overordnede produktet, Windows Server-2016.\n\n## <a name=\"links\"></a>Koblinger \n* [Windows Server 2016](/lifecycle/products/windows-server-2016?branch=live)"
