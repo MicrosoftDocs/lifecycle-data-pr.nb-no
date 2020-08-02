@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Vis den opprinnelige engelske artikkelen: 310333333'
+  description: Microsoft Lync Server-2013 følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "830596"
+name: 'Vis den opprinnelige engelske artikkelen: 310333333'
+summary: >+
+  Microsoft Lync Server-2013 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+  Dette gjelder for følgende utgaver: Enterprise, Persistent Chat Software Development Kit, Telefon, SDK, Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/25/2011
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/25/2011
+  endDate: 04/11/2023
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/lyncserver/microsoft-lync-server-2013)\n\n> [!NOTE]\n> Lync Phone Edition støttes med Lync Server 2010 og Lync Server 2013. Støttedatoen for Lync Phone Edition er utvidet 2 år for å justere med lync Server 2013 livssyklusen.\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise\n* Vedvarende Chat Software Development Kit\n* Telefon\n* Sdk\n* Standard (Standard)"
