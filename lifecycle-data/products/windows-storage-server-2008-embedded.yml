@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Innebygd Windows Storage Server 2008
+  description: Windows Storage Server 2008 Embedded følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "830435"
+name: Innebygd Windows Storage Server 2008
+summary: >+
+  Windows Storage Server 2008 Embedded følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+  Dette gjelder for følgende utgaver: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Dette produktet har nådd slutten av støtten. Se nedenfor for overføringsveiledning.\n\n## <a name=\"editions\"></a>Utgaver \n* 32-biters\n* 64-biters\n* Grunnleggende\n* Grunnleggende 32-biters\n* Enterprise\n* Standard (Standard)\n* Arbeidsgruppe"
