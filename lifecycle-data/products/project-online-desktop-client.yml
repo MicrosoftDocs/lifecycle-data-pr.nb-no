@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project Online Desktop-klient
+  description: Project Online Desktop Client følger policyen for moderne livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859362"
+name: Project Online Desktop-klient
+summary: >+
+  Project Online Desktop Client følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Systemkrav](https://products.office.com/office-system-requirements)\n* [Serviceinformasjon](https://technet.microsoft.com/library/mt584223.aspx)"
