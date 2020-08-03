@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2015
+  description: Visual Studio-2015 følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859521"
+name: Visual Studio 2015
+summary: >+
+  Visual Studio-2015 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+  Dette gjelder for følgende versjoner: Agenter, Fellesskap, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Modellering SDK, Professional, Release Management, Remote Tools, SDK, Shell (integrert), Shell (isolert), Test Professional, Visual C ++ Redistributable
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Serviceinformasjon](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Agenter\n* Fellesskap\n* Enterprise\n* Ekspress for web\n* Express for Windows 10\n* Express for Windows-skrivebord\n* Modellering SDK\n* Profesjonell\n* Administrasjon av utgivelse\n* Eksterne verktøy\n* Sdk\n* Shell (integrert)\n* Skall (isolert)\n* Test Profesjonell\n* Visual C++ Kan distribueres på nytt"

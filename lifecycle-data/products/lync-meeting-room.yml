@@ -1,0 +1,24 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Lync møterom
+  description: Lync-møterom følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859424"
+name: Lync møterom
+summary: "Lync-møterom følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.\n\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet. Se overføringsveiledning. \n"
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/01/2013
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 09/01/2013
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

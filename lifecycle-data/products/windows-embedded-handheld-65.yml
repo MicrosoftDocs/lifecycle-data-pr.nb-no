@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Innebygd håndholdt 6.5 for Windows
+  description: Windows Embedded håndholdt 6.5 følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859735"
+name: Innebygd håndholdt 6.5 for Windows
+summary: >
+  Windows Embedded håndholdt 6.5 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+
+  > [!IMPORTANT]
+
+  > Støtten er avsluttet. Se overføringsveiledning nedenfor.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/17/2010
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 12/17/2010
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [Dokumentasjon for Windows for IoT](/windows/iot-core/)"

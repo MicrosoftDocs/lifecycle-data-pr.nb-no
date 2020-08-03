@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Lagringsserver for Windows 2012
+  description: Windows Storage Server 2012 følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859293"
+name: Lagringsserver for Windows 2012
+summary: >+
+  Windows Storage Server 2012 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+  Dette gjelder for følgende utgaver: Standard, Arbeidsgruppe
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> Mainstream og Utvidet støtte for dette produktet er utvidet for å gi kundene standard tidslinjen for overgang av livssyklus.\n\n## <a name=\"editions\"></a>Utgaver \n* Standard (Standard)\n* Arbeidsgruppe"

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Installasjonsalternativ for Windows Server 2016 Nano Server
+  description: Installasjonsalternativet for Windows Server-2016 Nano Server følger policyen for moderne livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "859729"
+name: Installasjonsalternativ for Windows Server 2016 Nano Server
+summary: >+
+  Installasjonsalternativet for Windows Server-2016 Nano Server følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+
+
+  Dette gjelder for følgende utgaver: Datacenter, Standard
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Serviceinformasjon](/windows-server/get-started/nano-in-semi-annual-channel)\n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Datasenteret\n* Standard (Standard)"
