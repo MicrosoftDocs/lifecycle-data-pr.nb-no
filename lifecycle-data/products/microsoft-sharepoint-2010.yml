@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft SharePoint 2010 (for Internett-områder)
+  description: Microsoft SharePoint 2010 (for Internett-områder) følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "830893"
+name: Microsoft SharePoint 2010 (for Internett-områder)
+summary: >+
+  Microsoft SharePoint 2010 (for Internett-områder) følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+  Dette gjelder for følgende versjoner: for Internett-områder Enterprise, for Internett-områder Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/15/2010
+  end: 10/13/2015
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 06/15/2010
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktdokumentasjon](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentasjon for utviklere](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Dette produktets slutt på støttedatoen er utvidet fra 13.\n\n## <a name=\"editions\"></a>Utgaver \n* for Internett-områder Enterprise\n* for Standard for Internett-områder"
