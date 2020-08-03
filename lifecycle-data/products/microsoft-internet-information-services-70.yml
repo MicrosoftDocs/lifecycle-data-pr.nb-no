@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Internet Information Services 7.0
+  description: Microsoft Internet Information Services 7.0 følger policyen for komponentlivssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "831299"
+name: Microsoft Internet Information Services 7.0
+summary: >+
+  Microsoft Internet Information Services 7.0 følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/25/2007
+releases:
+- version: Original Release
+  startDate: 01/25/2007
+content: "> [!TIP]\n> Denne utgivelsen er kjent som en komponent som følger kundestøttelivssyklusen til det overordnede hovedproduktet, Windows Server 2008\n\n## <a name=\"links\"></a>Koblinger \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)\n\n\n\n"
