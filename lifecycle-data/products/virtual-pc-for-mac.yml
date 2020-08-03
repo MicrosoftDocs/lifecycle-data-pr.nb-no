@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Virtuell PC for Mac
+  description: Virtuell PC for Mac følger policyen for fast livssyklus.
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "830822"
+name: Virtuell PC for Mac
+summary: >+
+  Virtuell PC for Mac følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/12/2003
+  end: 04/13/2010
+releases:
+- version: Original Release
+  startDate: 11/12/2003
+  endDate: 01/13/2009
+content: "\n\n> [!NOTE]\n> Inkludert versjon 5.01, versjon 5.02, versjon 5.03, versjon 5.04, versjon 6.01, versjon 6.02, versjon 6.1, versjon 6.1.1 Oppdatering, versjon 7, versjon 7.01"
