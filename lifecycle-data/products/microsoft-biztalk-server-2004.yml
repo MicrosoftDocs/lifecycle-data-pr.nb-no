@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Vis den opprinnelige engelske artikkelen: 3103336'
-  description: Microsoft BizTalk Server 2004 følger policyen for fast livssyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e9cb9fea43232ed09c4dd276df75b919323fd5dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft BizTalk Server 2004
+  description: Microsoft BizTalk Server 2004 følger policyen for fast livs syklus.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "830977"
-name: 'Vis den opprinnelige engelske artikkelen: 3103336'
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893582"
+name: Microsoft BizTalk Server 2004
 summary: >+
-  Microsoft BizTalk Server 2004 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft BizTalk Server 2004 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
 
 
-  Dette gjelder for følgende utgaver: Utvikler, Bedrift, Partner, Standard
+  Dette gjelder for følgende versjoner: utvikler, Enterprise, partner, standard
 
 products:
 - microsoft-servers
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 05/20/2004
   endDate: 04/11/2006
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Utvikler\n* Enterprise\n* Partner\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versjonen \n* Utvikler\n* Virksomheter\n* Finanskontonr\n* Standardkosten"
