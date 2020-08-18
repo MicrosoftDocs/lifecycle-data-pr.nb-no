@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
-title: Søk etter informasjon om livssyklus for produkter og tjenester (forhåndsvisning)
+title: Søke etter informasjon om produkter og tjenester (forhånds visning)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> Denne siden er under utvikling. Hvis du vil ha en fullstendig liste over Microsoft-produkter og kundestøttetidslinjer og -detaljer, kan du gå [til aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportere livssyklusinformasjon fra siden [Eksporter livssyklus.](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle gir konsekvente og forutsigbare retningslinjer for støtte gjennom hele levetiden til et produkt, og hjelper kundene med å administrere IT-investeringene og miljøene sine samtidig som de planlegger strategisk for fremtiden.\n\n\nSøk nedenfor etter en liste over Kommersielle Microsoft-produkter og -tjenester, og velg deretter resultatet for å finne tidslinjer for støtte og vedlikehold, nødvendige oppdateringer, overføringsinformasjon og systemkrav."
+summary: "\n\n> [!IMPORTANT]\n> Denne siden er under utvikling, og vil gå fullstendig direkte til september 2. I mellom tiden kan du vise en fullstendig liste over Microsoft-produkter med deres støtte linjer og detaljer på [aka.MS/Lifecycle/Search](https://aka.ms/lifecycle/search/).\n> [!NOTE]\n> Eksportere livs syklus informasjon fra [eksport siden for syklusen](/lifecycle/export/products) .\n\n\nMicrosoft Lifecycle gir konsistente og forutsigbare retnings linjer for kunde støtte gjennom hele produktets leve tid, og hjelper kundene med å administrere IT-investeringene og miljøene sine under strategisk planlegging for fremtiden.\n\n\nSøk nedenfor etter en liste over Microsoft-kommersielle produkter og tjenester, og velg deretter resultatet for å finne tids linjer for støtte og vedlikehold, nødvendige oppdateringer, overførings informasjon og system krav."
 metadata:
-  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
-  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
+  ms.openlocfilehash: 5099408b03db5a7d520128dfd1da8271e4289aaa
+  ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
   ms.translationtype: MT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 08/04/2020
-  ms.locfileid: "882446"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "899849"
