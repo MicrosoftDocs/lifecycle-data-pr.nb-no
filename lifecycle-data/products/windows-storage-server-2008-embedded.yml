@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Innebygd Windows Storage Server 2008
-  description: Windows Storage Server 2008 Embedded følger policyen for fast livssyklus.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830435"
-name: Innebygd Windows Storage Server 2008
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 Embedded følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Storage Server 2008 Embedded følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
+  Dette gjelder for følgende versjoner: 32 Bit, 64 Bit, Basic, Basic 32-Bit, Enterprise, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Dette produktet har nådd slutten av støtten. Se nedenfor for overføringsveiledning.\n\n## <a name=\"editions\"></a>Utgaver \n* 32-biters\n* 64-biters\n* Grunnleggende\n* Grunnleggende 32-biters\n* Enterprise\n* Standard (Standard)\n* Arbeidsgruppe"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> Dette produktet støttes ikke lenger. Se overføringsveiledning nedenfor.\n\n## <a name=\"editions\"></a>Utgaver \n* 32 Bit\n* 64 Bit\n* Basic\n* Basic 32-Bit\n* Enterprise\n* Standard\n* Workgroup"

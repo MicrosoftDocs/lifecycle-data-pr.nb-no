@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Vis den opprinnelige engelske artikkelen: 3103336'
-  description: Microsoft SQL Server 2005 følger policyen for fast livssyklus.
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830477"
-name: 'Vis den opprinnelige engelske artikkelen: 3103336'
+name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft SQL Server 2005 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder følgende utgaver: Kompakt, Utvikler, Innebygd, Enterprise, Enterprise for Itanium-baserte systemer, Enterprise X64, Express, Express med avanserte tjenester, Standard, Standard for Itanium-baserte systemer, Standard X64, Arbeidsgruppe
+  Dette gjelder for følgende versjoner: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-baserte systemer, Enterprise X64, Express, Express med avanserte tjenester, Standard, Standard for Itanium-baserte systemer, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet. Se overføringsveiledning nedenfor.
+  > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition utgitt 19 februar 2007.\n\n## <a name=\"editions\"></a>Utgaver \n* Kompakt\n* Utvikler\n* Innebygd\n* Enterprise\n* Enterprise for Itanium-baserte systemer\n* Bedrift X64\n* Express\n* Uttrykke med avanserte tjenester\n* Standard (Standard)\n* Standard for Itanium-baserte systemer\n* Standard X64\n* Arbeidsgruppe"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition ble utgitt 19. februar 2007.\n\n## <a name=\"editions\"></a>Utgaver \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise for Itanium-baserte systemer\n* Enterprise X64\n* Express\n* Express med avanserte tjenester\n* Standard\n* Standard for Itanium-baserte systemer\n* Standard X64\n* Workgroup"

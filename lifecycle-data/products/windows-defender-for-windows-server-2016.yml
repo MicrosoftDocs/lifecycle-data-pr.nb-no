@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Defender for Windows Server 2016
-  description: Windows Defender for Windows Server-2016 følger policyen for komponentlivssyklus.
+  description: Windows Defender for Windows Server-2016 følger komponentens livsstilspolicy.
   ms.date: 07/28/2020
   ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830815"
 name: Windows Defender for Windows Server 2016
 summary: >+
-  Windows Defender for Windows Server-2016 følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Defender for Windows Server-2016 følger [komponentens](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livssykluspolicy
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Denne komponenten følger livssyklusen til det overordnede produktet, Windows Server-2016."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> Denne komponenten følger livssyklusen til det overordnede produktet, Windows Server 2016."

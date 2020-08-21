@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830876"
 name: Microsoft System Center Data Protection Manager 2007
 summary: >
-  Microsoft System Center Data Protection Manager 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft System Center Data Protection Manager 2007 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet. Se overføringsveiledning nedenfor.
+  > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 12/15/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)"

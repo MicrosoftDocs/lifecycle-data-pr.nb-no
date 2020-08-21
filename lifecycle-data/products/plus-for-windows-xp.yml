@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Plus! for Windows XP
-  description: Microsoft Plus! for Windows XP følger policyen for fast livssyklus.
+  description: Microsoft Plus! for Windows XP følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830834"
 name: Microsoft Plus! for Windows XP
 summary: >+
-  Microsoft Plus! for Windows XP følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Plus! for Windows XP følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:

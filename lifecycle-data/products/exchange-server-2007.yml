@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2007
-  description: Exchange Server 2007 følger policyen for fast livssyklus.
+  description: Exchange Server 2007 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: cd642c6d536ae4d72e91589eccec3e35bfa24298
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830370"
 name: Exchange Server 2007
 summary: >+
-  Exchange Server 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Exchange Server 2007 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Enterprise, Standard
+  Dette gjelder for følgende versjoner: Enterprise, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n* [Overføringsveiledning](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n* [Veiledning for overføring](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise\n* Standard"

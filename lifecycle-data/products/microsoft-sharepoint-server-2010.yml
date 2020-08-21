@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Vis den opprinnelige engelske artikkelen: 3103336'
-  description: Microsoft SharePoint Server 2010 følger policyen for fast livssyklus.
+  title: Microsoft SharePoint Server 2010
+  description: Microsoft SharePoint Server 2010 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830328"
-name: 'Vis den opprinnelige engelske artikkelen: 3103336'
+name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft SharePoint Server 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende versjoner: Access Services, Alle gjeldende, Excel-tjenester, Performance Point Services
+  Dette gjelder for følgende versjoner: Access-tjenester, Alle gjeldende, Excel-tjenester, Performance Point-services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Overføringsveiledning](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Dette produktets slutt på støttedatoen er utvidet fra 13.\n\n## <a name=\"editions\"></a>Utgaver \n* Access Services\n* Alle gjeldende\n* Excel Services\n* Tjenester for ytelsespunkt"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Veiledning for overføring](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> Dette produktets slutt på støtte har blitt utsatt fra 13. oktober 2020 til 13. april 2021.\n\n## <a name=\"editions\"></a>Utgaver \n* Access-tjenester\n* Alle gjeldende\n* Excel-tjenester\n* Performance Point-tjenester"

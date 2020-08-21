@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Vis den opprinnelige engelske artikkelen: 3103336'
+  title: Microsoft Office PowerPoint 2007
   description: Microsoft Office PowerPoint 2007 følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a5fabe576bb9e38f1f9ca7fd7fcdaed22819991
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831255"
-name: 'Vis den opprinnelige engelske artikkelen: 3103336'
+name: Microsoft Office PowerPoint 2007
 summary: >+
-  Microsoft Office PowerPoint 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Office PowerPoint 2007 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende utgaver: Hjem og Student, Standard
+  Dette gjelder for følgende versjoner: Hjem og Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Hjem og Student\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Home and Student\n* Standard"

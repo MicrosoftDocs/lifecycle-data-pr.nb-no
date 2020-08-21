@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office 2003 Web-komponenter for 2007 Microsoft Office-systemet
-  description: Microsoft Office 2003 Web Components for 2007 Microsoft Office-systemet følger policyen for komponentlivssyklus.
+  title: Microsoft Office 2003 Webkomponenter for 2007 Microsoft Office-systemet
+  description: Microsoft Office 2003 Webkomponenter for 2007 Microsoft Office-systemet følger policyen for komponent livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830351"
-name: Microsoft Office 2003 Web-komponenter for 2007 Microsoft Office-systemet
+name: Microsoft Office 2003 Webkomponenter for 2007 Microsoft Office-systemet
 summary: >+
-  Microsoft Office 2003 Web Components for 2007 Microsoft Office-systemet følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Office 2003 Webkomponenter for 2007 Microsoft Office-systemet følger policyen for [komponent](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livssyklus.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/office/troubleshoot/support/office-2007-not-support)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/office/troubleshoot/support/office-2007-not-support)"

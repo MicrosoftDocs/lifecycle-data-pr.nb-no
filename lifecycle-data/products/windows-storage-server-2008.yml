@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Windows Storage Server 2008 følger policyen for fast livssyklus.
+  description: Windows Storage Server 2008 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830269"
 name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Storage Server 2008 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende versjoner: Grunnleggende, Grunnleggende 32-biters, Grunnleggende 64-biters, Grunnleggende innebygd, Grunnleggende innebygd 32-biters, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Arbeidsgruppe
+  Dette gjelder for følgende versjoner: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
 
 
   > [!IMPORTANT]
 
-  > Dette produktet har nådd slutten av støtten. Se nedenfor for overføringsveiledning.
+  > Dette produktet støttes ikke lenger. Se overføringsveiledning nedenfor.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informasjon om oppgradering av server](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Grunnleggende\n* Grunnleggende 32-biters\n* Grunnleggende 64-biters\n* Grunnleggende innebygd\n* Grunnleggende innebygd 32-biters\n* Enterprise\n* Innebygd virksomhet\n* Standard (Standard)\n* Standard innebygd\n* Arbeidsgruppe"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [Informasjon om serveroppgradering](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Basic\n* Basic 32-Bit\n* Basic 64-bit\n* Basic Embedded\n* Basic Embedded 32-bit\n* Enterprise\n* Enterprise Embedded\n* Standard\n* Standard Embedded\n* Workgroup"
