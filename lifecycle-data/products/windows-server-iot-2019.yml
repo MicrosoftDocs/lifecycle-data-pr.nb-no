@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871119"
 name: Windows Server IoT 2019
 summary: >+
-  Windows Server IoT 2019 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Server IoT 2019 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende utgaver: Datacenter, Essentials, Standard, Telecommunications
+  Dette gjelder for følgende versjoner: Datasenter, Essentials, Standard, Telekommunikasjon
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Alle versjoner av Windows Server IoT 2019 følger livssyklusen for Windows Server 2019.\n\n## <a name=\"editions\"></a>Utgaver \n* Datasenteret\n* Nødvendigheter\n* Standard (Standard)\n* Telekommunikasjon"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Alle versjoner av Windows Server IoT 2019 følger livssyklusen til Windows Server 2019.\n\n## <a name=\"editions\"></a>Utgaver \n* Datacenter\n* Nødvendigheter\n* Standard\n* Telekommunikasjon"

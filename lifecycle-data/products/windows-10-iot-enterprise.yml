@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/30/2020
   ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879089"
 name: Windows 10 IoT Enterprise
 summary: >
-  Windows 10 IoT Enterprise følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+  Windows 10 IoT Enterprise følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft vil fortsette å støtte minst én halvårlig kanal for Windows 10 frem til 14.
+  > Microsoft vil fortsette å støtte minst én halvårlig kanal for Windows 10 frem til 14. oktober 2025.
 products:
 - windows
 policyType: modern-on-prem
@@ -55,4 +55,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Oversikt over Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Faktaark for Windows-livssyklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som tjeneste (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Med mindre det er utsatt, kan etterfølgende funksjonsoppdateringer for Windows 10-funksjonen installeres før den oppførte datoen for ordinær støtte."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Oversikt over Windows 10 IoT Enterprise](/windows/iot-core/windows-iot-enterprise)\n* [Faktaark for Windows-livssyklus](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows som tjeneste (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Hvis de ikke utsettes, kan påfølgende funksjonsoppdateringer i halvårskanalen for Windows 10 bli installert før den oppførte datoen for avvikling av grunnleggende støtte."
