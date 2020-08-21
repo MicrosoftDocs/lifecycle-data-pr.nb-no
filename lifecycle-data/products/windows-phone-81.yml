@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859562"
 name: Windows Phone 8.1
 summary: >
-  Windows Phone 8.1 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Phone 8.1 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet.
+  > Støtte for dette produktet er avsluttet
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2014
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft gjør oppdateringer tilgjengelige for operativsystemet, inkludert sikkerhetsoppdateringer, i minst 36 måneder etter startdatoen for livssyklusen. Disse oppdateringene vil være trinnvise, med hver oppdatering bygget på oppdateringen som gikk forut for den. Kunder må installere hver oppdatering for å forbli støttet. Distribusjonen av disse trinnvise oppdateringene kan styres av mobiloperatøren eller telefonprodusenten du kjøpte telefonen fra, og installasjonen krever at telefonen har eventuelle tidligere oppdateringer. Tilgjengeligheten av oppdateringen vil også variere etter land, område og maskinvarefunksjoner."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Ofte stilte spørsmål om Windows Phone 8.1](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> Microsoft vil gjøre oppdateringer tilgjengelige for operativsystemet, inkludert sikkerhetsoppdateringer, i minst 36 måneder etter livssyklusens startdato. Disse oppdateringene blir trinnvise, og hver oppdatering blir basert på den forrige oppdateringen. Kunder må installere hver oppdatering som blir gitt ut, for å fortsette å få støtte. Distribusjonen av disse trinnvise oppdateringene kan styres av mobiloperatøren eller telefonprodusenten du kjøpte telefonen fra, og installasjonen krever at telefonen har eventuelle tidligere oppdateringer. Oppdaterings-tilgjengeligheten vil også variere etter land, område og maskinvarefunksjoner."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization Hosting 5.0 for Windows-skrivebord
-  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops følger policyen for fast livssyklus.
+  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktop følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859411"
 name: Microsoft Application Virtualization Hosting 5.0 for Windows-skrivebord
 summary: >+
-  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Application Virtualization Hosting 5.0 for Windows Desktop følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende versjoner: for Windows-skrivebord
+  Dette gjelder følgende utgaver: for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* for Stasjonære Pc-er for Windows"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* for Windows Desktops"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Application Virtualization 5.0
-  description: Microsoft Application Virtualization 5.0 følger policyen for fast livssyklus.
+  description: Microsoft Application Virtualization 5.0 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859420"
 name: Microsoft Application Virtualization 5.0
 summary: >+
-  Microsoft Application Virtualization 5.0 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Application Virtualization 5.0 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende versjoner: for Remote Desktop Services, for Terminal Services, for Windows Desktops
+  Dette gjelder for følgende versjoner: Remote Desktop Services, Terminal Services, Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* for eksterne skrivebordstjenester\n* for terminaltjenester\n* for Stasjonære Pc-er for Windows"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* for Remote Desktop Services\n* for Terminal Services\n* for Windows Desktops"
