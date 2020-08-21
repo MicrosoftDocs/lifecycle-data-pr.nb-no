@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Server IoT 2019 for lagring
-  description: Windows Server IoT 2019 for lagring følger policyen for fast livssyklus.
+  title: Windows Server IoT 2019 for Storage
+  description: Windows Server IoT 2019 for Storage følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871121"
-name: Windows Server IoT 2019 for lagring
+name: Windows Server IoT 2019 for Storage
 summary: >+
-  Windows Server IoT 2019 for lagring følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Server IoT 2019 for Storage følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende utgaver: Standard, Arbeidsgruppe
+  Dette gjelder for følgende versjoner: Standard, Arbeidsgruppe
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Standard (Standard)\n* Arbeidsgruppe"
+content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Standard\n* Workgroup"

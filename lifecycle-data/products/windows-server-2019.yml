@@ -1,21 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server 2019
-  description: Windows Server-2019 følger policyen for fast livssyklus.
+  description: Windows Server 2019 følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871122"
 name: Windows Server 2019
-summary: >+
-  Windows Server-2019 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
-
-
-  Dette gjelder for følgende utgaver: Datacenter, Essentials, Standard
-
+summary: "Windows Server-2019 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus. \n\nDette gjelder for følgende versjoner: Datasenter, Nødvendigheter, Standard\n\n"
 products:
 - windows
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/windows-server/get-started-19/whats-new-19)\n* [Oppdatering på Windows Server-2019 tilgjengelighet](https://aka.ms/WSRelaunchBlog)\n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 og Windows Server, versjon 1809 ble utgitt på nytt 13. Støttedatoer er justert tilsvarende.\n\n## <a name=\"editions\"></a>Utgaver \n* Datasenteret\n* Nødvendigheter\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/windows-server/get-started-19/whats-new-19)\n* [Oppdatering på Windows Server 2019-tilgjengelighet](https://aka.ms/WSRelaunchBlog)\n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 og Windows Server, versjon 1809 ble utgitt på nytt 13. nov. 2018. Støttedatoer har blitt oppdatert henholdsvis.\n\n## <a name=\"editions\"></a>Utgaver \n* Datacenter\n* Nødvendigheter\n* Standard"
