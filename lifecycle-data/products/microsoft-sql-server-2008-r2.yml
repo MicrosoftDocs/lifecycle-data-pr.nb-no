@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft SQL Server 2008 R2
-  description: Microsoft SQL Server 2008 R2 følger policyen for fast livssyklus.
+  description: Microsoft SQL Server 2008 R2 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830471"
 name: Microsoft SQL Server 2008 R2
 summary: >+
-  Microsoft SQL Server 2008 R2 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft SQL Server 2008 R2 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Datacenter, Utvikler, Enterprise, Express, Express med avanserte tjenester, for innebygde systemer, Standard, Standard Edition for Small Business, Web, Arbeidsgruppe
+  Dette gjelder for følgende versjoner: Datacenter, Developer, Enterprise, Express, Express med avanserte tjenester, for innebygde systemer, Standard, Standard Edition for små bedrifter, Web, Workgroup
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Slutt på støttealternativer for SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Alternativer for sluttbruker for SQL Server 2008 og Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Utvidet sikkerhetsoppdateringsprogram (ESU)](/lifecycle/faq/extended-security-updates)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Utvidede sikkerhetsoppdateringer (ESU) er tilgjengelige for Datacenter-, Standard-, Enterprise- og Embedded-utgavene av dette produktet, i opptil ytterligere tre år etter at kundestøtten er avsluttet.\n> [!NOTE]\n> For bare IA64 støttes SP2 til 09.07.2019. Se bloggen for SQL Release Services hvis du vil ha mer informasjon.\n\n## <a name=\"editions\"></a>Utgaver \n* Datasenteret\n* Utvikler\n* Enterprise\n* Express\n* Uttrykke med avanserte tjenester\n* for innebygde systemer\n* Standard (Standard)\n* Standard utgave for små bedrifter\n* Web\n* Arbeidsgruppe"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Alternativer for slutt på støtte for SQL Server](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [Alternativer for slutt på støtte for SQL Server 2008 og Windows Server 2008](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [Program for utvidet sikkerhetsoppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Utvidede sikkerhetsoppdateringer (ESU) er tilgjengelig for Datacenter-, Standard-, Enterprise- og Embedded-versjonene av dette produktet, i opptil tre år utover opphør av kundestøtte.\n> [!NOTE]\n> For bare IA64 støttes SP2 til 09.07.2019. Se bloggen for SQL Release Services for mer informasjon.\n\n## <a name=\"editions\"></a>Utgaver \n* Datacenter\n* Developer\n* Enterprise\n* Express\n* Express med avanserte tjenester\n* for innebygde systemer\n* Standard\n* Standard utgave for små bedrifter\n* Web\n* Workgroup\n\n"

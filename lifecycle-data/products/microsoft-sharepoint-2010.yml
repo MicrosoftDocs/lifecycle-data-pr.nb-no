@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SharePoint 2010 (for Internett-områder)
-  description: Microsoft SharePoint 2010 (for Internett-områder) følger policyen for fast livssyklus.
+  title: Microsoft SharePoint 2010 (for Internet Sites)
+  description: Microsoft SharePoint 2010 (for Internett-områder) følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830893"
-name: Microsoft SharePoint 2010 (for Internett-områder)
+name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: >+
-  Microsoft SharePoint 2010 (for Internett-områder) følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft SharePoint 2010 (for Internett-områder) følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende versjoner: for Internett-områder Enterprise, for Internett-områder Standard
+  Dette gjelder for følgende versjoner: for Internet Sites Enterprise, for Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktdokumentasjon](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentasjon for utviklere](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Dette produktets slutt på støttedatoen er utvidet fra 13.\n\n## <a name=\"editions\"></a>Utgaver \n* for Internett-områder Enterprise\n* for Standard for Internett-områder"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Produktdokumentasjon](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Dokumentasjon for utviklere](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> Dette produktets slutt på støtte har blitt utsatt fra 13. oktober 2020 til 13. april 2021.\n\n## <a name=\"editions\"></a>Utgaver \n* for Internet Sites Enterprise\n* for Internet Sites Standard"

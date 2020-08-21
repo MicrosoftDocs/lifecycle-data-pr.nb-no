@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Vis den opprinnelige engelske artikkelen: 3103336'
-  description: Microsoft Visual Studio 2005 følger policyen for fast livssyklus.
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830317"
-name: 'Vis den opprinnelige engelske artikkelen: 3103336'
+name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Visual Studio 2005 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder følgende utgaver: Professional, Standard, Standard Edition akademisk lisens, Team Edition for databasefagfolk, Team Edition for software arkitekter, Team Edition for programvareutviklere, Team Edition for programvaretestere, Team Suite, Team Test Load Agent, Verktøy for Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
+  Dette gjelder for følgende versjoner: Professional, Standard, akademisk lisens for Standard Edition, Team Edition for databaseeksperter, Team Edition for programvarearkitekt, Team Edition for programvareutviklere, Team Edition for programvaretestere, Team Suite, Team Test Load Agent, Verktøy for Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Visuell J# støtteinformasjon](https://msdn.microsoft.com/vstudio/bb188593)\n* [Overføringsveiledning](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Produktinformasjon for Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Støtte for dette produktet er avsluttet. Se nedenfor for overføringsveiledning.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for database profesjonelle utgitt på 2 mars 2007.\n\n## <a name=\"editions\"></a>Utgaver \n* Profesjonell\n* Standard (Standard)\n* Standard Edition akademisk lisens\n* Team Edition for profesjonelle databaser\n* Team Edition for programvarearkitekter\n* Team Edition for programvareutviklere\n* Team Edition for programvaretestere\n* Team Suite\n* Team Test Load Agent\n* Verktøy for Microsoft Office System\n* VB-ekspress\n* Visuell C# Express\n* Visuell C++ Express\n* Visuell J# Express\n* Visuell webutviklerekspress"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Støtteinformasjon om Visuell J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [Veiledning for overføring](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Produktinformasjon for Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for databaseeksperter publisert 2. mars 2007.\n\n## <a name=\"editions\"></a>Utgaver \n* Professional\n* Standard\n* Akademisk lisens for Standard Edition\n* Team Edition for databaseeksperter\n* Team Edition for programvarearkitekter\n* Team Edition for programvareutviklere\n* Team Edition for programvaretestere\n* Team Suite\n* Team Test Load Agent\n* Verktøy for Microsoft Office System\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visuell J# Express\n* Visual Web Developer Express"

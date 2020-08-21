@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Enterprise Desktop Virtualization 1.0
-  description: Microsoft Enterprise Desktop Virtualization 1.0 følger policyen for fast livssyklus.
+  description: Microsoft Enterprise Desktop Virtualization 1.0 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830937"
 name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  Microsoft Enterprise Desktop Virtualization 1.0 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Enterprise Desktop Virtualization 1.0 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Enterprise
+  Dette gjelder for følgende versjoner: Enterprise
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet. Se overføringsveiledning nedenfor.
+  > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://technet.microsoft.com/en-us/windows/bb899442)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise"

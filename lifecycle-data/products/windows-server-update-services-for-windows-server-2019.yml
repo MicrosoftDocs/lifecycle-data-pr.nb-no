@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Oppdateringstjenester for Windows Server for Windows Server 2019
-  description: Windows Server Update Services for Windows Server 2019 følger policyen for komponentlivssyklus.
+  title: Windows Server Update Services for Windows Server 2019
+  description: Windows Server Update Services for Windows Server 2019 følger komponentens livssykluspolicy.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ef2f54a3fe3a1de1d28984b691c0b1ed189d9db
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830282"
-name: Oppdateringstjenester for Windows Server for Windows Server 2019
+name: Windows Server Update Services for Windows Server 2019
 summary: >+
-  Windows Server Update Services for Windows Server 2019 følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Server Update Services for Windows Server 2019 følger livssykluspolicyen for [komponenter](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

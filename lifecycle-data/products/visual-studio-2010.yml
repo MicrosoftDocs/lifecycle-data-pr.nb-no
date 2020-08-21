@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2010
-  description: Visual Studio 2010 følger policyen for fast livssyklus.
+  description: Visual Studio 2010 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830450"
 name: Visual Studio 2010
 summary: >+
-  Visual Studio 2010 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Visual Studio 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Agenter, Alle, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Ytelsesverktøy, Premium, Professional, Remote Debugger, SDK, Shell (integrert), Shell (isolert), Team Agenter, Team Explorer, Test Professional, Verktøy for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualisering & Modellering SDK
+  Dette gjelder for følgende versjoner: Agenter, Alle, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Ytelsesverktøy, Premium, Professional, Remote Debugger, SDK, Shell (integrert), Shell (isolert), Team Agents, Team Explorer, Test Professional, Verktøy for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualisering & Modellering SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Agenter\n* Alle\n* ASP .NET MVC 4\n* Express\n* F # 2.0 Kjøretid\n* Administrasjon av laboratorier\n* Ytelsesverktøy\n* Premium\n* Profesjonell\n* Eksternt feilsøkingsprogram\n* Sdk\n* Shell (integrert)\n* Skall (isolert)\n* Team Agenter\n* Team Utforsker\n* Test Profesjonell\n* Verktøy for Office System 4.0 Kjøretid\n* Ultimate\n* VB-ekspress\n* Visuell C# Express\n* Visuell C++ Express\n* Visuell webutviklerekspress\n* Visualisering & modellering SDK"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Agenter\n* Alle\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Kjøretid\n* Administrasjon av laboratorier\n* Ytelsesverktøy\n* Premium\n* Professional\n* Eksternt feilsøkingsprogram\n* SDK\n* Shell (integrert)\n* Skall (isolert)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Verktøy for Office System 4.0-kjøretid\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualisering og modellering-SDK"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Konfigurasjonsbehandling for Microsoft System Center 2007 R2
-  description: Microsoft System Center Configuration Manager 2007 R2 følger policyen for fast livssyklus.
+  title: Microsoft System Center Configuration Manager 2007 R2
+  description: Microsoft System Center Configuration Manager 2007 R2 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830882"
-name: Konfigurasjonsbehandling for Microsoft System Center 2007 R2
+name: Microsoft System Center Configuration Manager 2007 R2
 summary: >
-  Microsoft System Center Configuration Manager 2007 R2 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft System Center Configuration Manager 2007 R2 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet. Se overføringsveiledning nedenfor.
+  > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2008
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/mem/configmgr/core/migration/planning-for-migration)\n* [Ytterligere overføringsveiledning](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/mem/configmgr/core/migration/planning-for-migration)\n* [Ytterligere overføringsveiledning](/mem/configmgr/core/migration/migrate-data-between-hierarchies)"
