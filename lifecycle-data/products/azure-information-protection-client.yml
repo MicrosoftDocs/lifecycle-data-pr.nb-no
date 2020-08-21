@@ -5,7 +5,7 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859260"
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Serviceinformasjon](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Overføringsveiledning](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> For å gi en enhetlig og strømlinjeformet kundeopplevelse blir Azure Information Protection-klienten (klassisk) og Label Management i Azure Portal avskrevet fra og med 31. Denne tidsrammen gjør det mulig for alle nåværende Azure Information Protection-kunder å gå over til vår enhetlige merkingsløsning ved hjelp av Microsoft Information Protection Unified Labeling-plattformen."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Serviceinformasjon](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [Veiledning for overføring](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> For å gi en enhetlig og strømlinjeformet kundeopplevelse blir Azure Information Protection-klienten (klassisk) og Label Management i Azure Portal avskrevet fra og med 31. mars 2021. Denne tidsrammen gjør det mulig for alle nåværende Azure Information Protection-kunder å gå over til vår enhetlige merkingsløsning ved hjelp av Microsoft Information Protection Unified Labeling-plattformen."

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office for Mac 2011
-  description: Microsoft Office for Mac 2011 følger policyen for fast livssyklus.
+  description: Microsoft Office for Mac 2011 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859371"
 name: Microsoft Office for Mac 2011
 summary: >+
-  Microsoft Office for Mac 2011 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Office for Mac 2011 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder følgende utgaver: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
+  Dette gjelder for følgende versjoner: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Grunnleggende støtte for Microsoft Office for Mac 2011 utvides som vist for å gi alle kunder standard tidslinje for overgang av livssyklus.\n\n## <a name=\"editions\"></a>Utgaver \n* Akademiske\n* Hjem og Forretninger\n* Program for hjemmebruk for hjem og virksomhet\n* Hjem og Student\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Grunnleggende støtte for Microsoft Office for Mac 2011 utvides som vist for å gi alle kunder standard tidslinje for overgang av livssyklus.\n\n## <a name=\"editions\"></a>Utgaver \n* Academic\n* Home and Business\n* Program for hjemmebruk av Home and Business\n* Home and Student\n* Standard"

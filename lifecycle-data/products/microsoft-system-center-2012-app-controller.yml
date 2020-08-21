@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859488"
 name: Microsoft System Center 2012 App Controller
 summary: >+
-  Microsoft System Center 2012 App Controller følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft System Center 2012 App Controller følgerpolicyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Informasjon om systemsenter](/system-center/#pivot=components&panel=components-all)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 består av komponenter: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automation Virtual Machine Manager Service Provider Foundation"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [System Center-informasjon](/system-center/#pivot=components&panel=components-all)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 består av komponenter: Configuration Manager Data Protection Manager Operations Manager Orchestrator Service Manager Service Management Automatisering Virtual Machine Manager Service Provider Foundation"

@@ -5,16 +5,16 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859675"
 name: Windows Storage Server 2012 R2
 summary: >+
-  Windows Storage Server 2012 R2 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Storage Server 2012 R2 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende utgaver: Essentials, Standard, Workgroup
+  Dette gjelder for følgende versjoner: Essentials, Standard, Workgroup
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Mainstream og Utvidet støtte for dette produktet er utvidet for å gi kundene standard tidslinjen for overgang av livssyklus.\n> [!NOTE]\n> Startdatoen for Essentials-utgaven er 25. \n\n## <a name=\"editions\"></a>Utgaver \n* Nødvendigheter\n* Standard (Standard)\n* Arbeidsgruppe"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> Mainstream og Utvidet støtte for dette produktet er utvidet for å gi kundene standardtidslinjen for overgang av livssyklus.\n> [!NOTE]\n> Startdatoen for Essentials-utgaven er 25. september 2014. \n\n## <a name=\"editions\"></a>Utgaver \n* Nødvendigheter\n* Standard\n* Workgroup"
