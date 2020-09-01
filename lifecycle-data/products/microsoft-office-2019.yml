@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office-2019
-  description: Microsoft Office-2019 følger policyen for fast livssyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 76252d1d17d478ee3ac5717a68cc8887de606d69
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: Microsoft Office 2019
+  description: Microsoft Office 2019 følger policyen for fast livs syklus.
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
+  ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "871191"
-name: Microsoft Office-2019
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930390"
+name: Microsoft Office 2019
 summary: >+
-  Microsoft Office-2019 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Office 2019 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
 
 
-  Dette gjelder følgende utgaver: Hjem og bedrift, Hjem og Student, Personlig, Profesjonell, Profesjonell Akademisk, Professional Plus, Standard
+  Dette gjelder for følgende versjoner: Hjem og næringsliv, hjem og studenter, personlig, profesjonell, profesjonell akademisk, profesjonell pluss, standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Hjem og Forretninger\n* Hjem og Student\n* Personlige\n* Profesjonell\n* Profesjonell akademisk\n* Profesjonell Pluss\n* Standard (Standard)"
+content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Standard"
