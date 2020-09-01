@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Uttrykk 2
-  description: Uttrykk 2 følger policyen for fast livssyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Uttrykk 2 følger policyen for fast livs syklus.
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "830368"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930834"
 name: Uttrykk 2
-summary: "Uttrykk 2 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.\n\nDette gjelder for følgende utgaver: Blanding, Design, Encoder, Studio, Web\n\n> [!IMPORTANT]\n> Støtten er avsluttet for dette produktet. \n"
+summary: "Uttrykk 2 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.\n\nDette gjelder for følgende versjoner: Blend, utforming, koder, Studio, Web\n\n> [!IMPORTANT]\n> Kunde støtte har opphørt for dette produktet. \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Blanding\n* Design\n* Encoder\n* Studio\n* Web"
+content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Himmel\n* Utformingsreplikaen\n* Koder\n* Studio\n* Web"
