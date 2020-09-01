@@ -2,19 +2,20 @@
 metadata:
   title: Sky plattform system
   description: Sky plattform systemet følger policyen for fast livs syklus.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891889"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932055"
 name: Sky plattform system
 summary: >+
   Sky plattform systemet følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
 
 
-  Dette gjelder følgende versjoner: standard
+  Dette gjelder for følgende versjoner: Standard
 
 products:
 - azure
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> Støtte for Sky plattform systemet er utvidet som vist for å gi alle kundene en tids linje for overgang til standard livs syklus.\n> [!NOTE]\n> System standard for Sky plattform startet den 18. september 2017.\n\n## <a name=\"editions\"></a>Versjonen \n* Standardkosten"
+content: "\n\n> [!NOTE]\n> Støtte for Sky plattform systemet er utvidet som vist for å gi alle kundene en tids linje for overgang til standard livs syklus.\n> [!NOTE]\n> System standard for Sky plattform startet den 18. september 2017.\n\n## <a name=\"editions\"></a>Utgaver \n* Standard"
