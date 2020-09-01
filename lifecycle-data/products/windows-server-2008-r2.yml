@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 følger den faste livssykluspolicyen.
-  ms.date: 08/27/2020
-  ms.openlocfilehash: 531fe1d11032fd9fb6ae5fa6e4db46d01b7f63e4
-  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.date: 09/01/2020
+  keywords: Datacenter,Enterprise,HPC Edition,Itanium-Based Systems,Standard,Web
+  ms.openlocfilehash: d11313c6b34939376f603efe48a886993b46d8ef
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922924"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939677"
 name: Windows Server 2008 R2
 summary: "Windows Server 2008 R2 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.\n\nDette gjelder for følgende versjoner: Datacenter, Enterprise, HPC Edition, Itanium-baserte systemer, Standard, Web\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor. \n"
 products:
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://aka.ms/AA1ovn4)\n* [Informasjon om serveroppgradering](/windows-server/upgrade/upgrade-overview)\n* [Program for utvidet sikkerhetsoppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Utvidede sikkerhetsoppdateringer (ESU) er tilgjengelige for Datacenter-, Standard-, Enterprise- og Embedded-versjonene av dette produktet, i opptil tre år utover opphør av kundestøtte. Kontakt din Microsoft-partner eller kontoteam for å finne ut mer. \n\nUtgivelsesdato-------------------------------Start dato----Sluttdato\n\nUtvidet sikkerhetsoppdatering år 3---11.01.2022---10.01.2023\n\nUtvidet sikkerhetsoppdatering år 2---12.01.2021---11.01.2022\n\nUtvidet sikkerhetsoppdatering år 1---14.01.2020---12.01.2021\n\n## <a name=\"editions\"></a>Utgaver \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itanium-baserte systemer\n* Standard\n* Web\n\n"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://aka.ms/AA1ovn4)\n* [Informasjon om serveroppgradering](/windows-server/upgrade/upgrade-overview)\n* [Program for utvidet sikkerhetsoppdatering (ESU)](/lifecycle/faq/extended-security-updates)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Utvidede sikkerhetsoppdateringer (ESU) er tilgjengelige for Datacenter-, Standard-, Enterprise- og Embedded-versjonene av dette produktet, i opptil tre år utover opphør av kundestøtte. Kontakt din Microsoft-partner eller kontoteam for å finne ut mer. \n\nUtgivelsesdato-------------------------------Start dato----Sluttdato\n\nUtvidet sikkerhetsoppdatering år 3---11.01.2022---10.01.2023\n\nUtvidet sikkerhetsoppdatering år 2---12.01.2021---11.01.2022\n\nUtvidet sikkerhetsoppdatering år 1---14.01.2020---12.01.2021\n\n## <a name=\"editions\"></a>Utgaver \n* Datacenter\n* Enterprise\n* HPC Edition\n* Itanium-baserte systemer\n* Standard\n* Web\n"

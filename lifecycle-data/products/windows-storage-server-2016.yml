@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2016
-  description: Windows Storage Server 2016 følger policyen for fast livssyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Windows Storage server 2016
+  description: Windows Storage server 2016 følger policyen for fast livs syklus.
+  ms.date: 09/01/2020
+  keywords: Standard,Workgroup
+  ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859467"
-name: Windows Storage Server 2016
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938974"
+name: Windows Storage server 2016
 summary: >+
-  Windows Storage Server 2016 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Storage server 2016 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
 
 
-  Dette gjelder for følgende utgaver: Standard, Arbeidsgruppe
+  Dette gjelder for følgende versjoner: Standard, Arbeidsgruppe
 
 products:
 - windows
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n* [Produktinformasjon](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Standard (Standard)\n* Arbeidsgruppe"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n* [Produktinformasjon](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Standard\n* Workgroup"
