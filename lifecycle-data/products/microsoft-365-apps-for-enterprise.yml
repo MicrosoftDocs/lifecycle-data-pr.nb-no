@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft 365-apper for bedrifter
-  description: Microsoft 365 Apps for enterprise følger policyen for moderne livssyklus.
+  title: Microsoft 365 Apps for enterprise
+  description: Microsoft 365 Apps følger den moderne livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859422"
-name: Microsoft 365-apper for bedrifter
+name: Microsoft 365 Apps for enterprise
 summary: >+
-  Microsoft 365 Apps for enterprise følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+  Microsoft 365 Apps følger den [moderne](/lifecycle/policies/modern) livssykluspolicyen.
 
 
 products:

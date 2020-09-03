@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Innebygd 8.1 håndholdt
-  description: Windows Embedded 8.1 håndholdt følger policyen for fast livssyklus.
+  title: Windows Embedded 8.1 Håndholdt
+  description: Windows Embedded 8.1 Handheld følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859740"
-name: Windows Innebygd 8.1 håndholdt
+name: Windows Embedded 8.1 Håndholdt
 summary: >
-  Windows Embedded 8.1 håndholdt følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Embedded 8.1 Handheld følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet. Hvis organisasjonen fortsatt vedlikeholder disse plattformene og har flere spørsmål, kan du kontakte kontoteamet ditt.
+  > Støtte for dette produktet er avsluttet Hvis organisasjonen fortsatt holder disse plattformene ved like og har flere spørsmål, kan du kontakte kontoteamet.
 products:
 - windows
 policyType: fixed-mainstream-only
