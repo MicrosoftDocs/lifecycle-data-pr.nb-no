@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Administrasjonsserver for Microsoft Systems Management Server 2003
-  description: Microsoft Systems Management Server 2003 følger policyen for fast livssyklus.
+  title: Microsoft Systems Management Server 2003
+  description: Microsoft Systems Management Server 2003 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830859"
-name: Administrasjonsserver for Microsoft Systems Management Server 2003
+name: Microsoft Systems Management Server 2003
 summary: >+
-  Microsoft Systems Management Server 2003 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Systems Management Server 2003 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:

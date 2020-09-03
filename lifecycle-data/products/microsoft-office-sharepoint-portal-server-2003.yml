@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office SharePoint Portal Server 2003
-  description: Microsoft Office SharePoint Portal Server 2003 følger policyen for fast livssyklus.
+  description: Microsoft Office SharePoint Portal Server 2003 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: ddcdf5740b01da6e536d1d65bcde6a80f702e8e6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830902"
 name: Microsoft Office SharePoint Portal Server 2003
 summary: >+
-  Microsoft Office SharePoint Portal Server 2003 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Office SharePoint Portal Server 2003 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:

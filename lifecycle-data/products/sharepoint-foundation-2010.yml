@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Foundation 2010
-  description: SharePoint Foundation 2010 følger policyen for fast livssyklus.
+  description: SharePoint Foundation 2010 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830305"
 name: SharePoint Foundation 2010
 summary: >+
-  SharePoint Foundation 2010 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  SharePoint Foundation 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Dette produktets slutt på støttedatoen er utvidet fra 13."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> Dette produktets slutt på støtte har blitt utsatt fra 13. oktober 2020 til 13. april 2021."

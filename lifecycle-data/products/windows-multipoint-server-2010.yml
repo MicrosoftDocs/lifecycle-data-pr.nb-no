@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows MultiPoint Server 2010
-  description: Windows MultiPoint Server 2010 følger policyen for fast livssyklus.
+  description: Windows MultiPoint Server 2010 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830788"
 name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows MultiPoint Server 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
   Dette gjelder følgende utgaver: Academic, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://aka.ms/AA1ovn4)\n* [Ytterligere overføringsveiledning](/windows-server/get-started/installation-and-upgrade)\n* [Produktinformasjon](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Akademiske\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://aka.ms/AA1ovn4)\n* [Ytterligere overføringsveiledning](/windows-server/get-started/installation-and-upgrade)\n* [Produktinformasjon](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Academic\n* Standard"

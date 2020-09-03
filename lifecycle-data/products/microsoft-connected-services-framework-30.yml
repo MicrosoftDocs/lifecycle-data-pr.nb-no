@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Connected Services Framework 3.0
-  description: Microsoft Connected Services Framework 3.0 følger policyen for fast livssyklus.
+  description: Microsoft Connected Services Framework 3.0 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830950"
 name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Microsoft Connected Services Framework 3.0 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Customer Services Framework 3.0 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende versjoner: Fakturering Standard Business Event, Ordrehåndtering Standard Business Event, Server, Standard, Standard Server med Standard Forretningshendelser
+  Dette gjelder for følgende versjoner: Fakturering for standard forretningsarrangementer, ordrehåndtering for standard forretningsarrangementer, server, standard, standard server med standard forretningsarrangementer
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Fakturering standard forretningsarrangement\n* Ordrehåndtering standard forretningsarrangement\n* Server\n* Standard (Standard)\n* Standardserver med standard forretningshendelser"
+content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Fakturering for standard forretningsarrangementer\n* Ordrehåndtering for standard forretningsarrangementer\n* Server\n* Standard\n* Standard server med standard forretningsarrangementer"

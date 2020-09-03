@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Engyro-produktkoblinger for Microsoft System Center Operations Manager 2007
-  description: Engyro-produktkoblinger for Microsoft System Center Operations Manager 2007 følger policyen for fast livssyklus.
+  title: Engyro Product Connectors for Microsoft System Center Operations Manager 2007
+  description: Engyro-produktkoblinger for Microsoft System Center Operations Manager 2007 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831304"
-name: Engyro-produktkoblinger for Microsoft System Center Operations Manager 2007
+name: Engyro Product Connectors for Microsoft System Center Operations Manager 2007
 summary: >
-  Engyro-produktkoblinger for Microsoft System Center Operations Manager 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Engyro-produktkoblinger for Microsoft System Center Operationa Manager 2007 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet.
+  > Støtte for dette produktet er avsluttet
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"

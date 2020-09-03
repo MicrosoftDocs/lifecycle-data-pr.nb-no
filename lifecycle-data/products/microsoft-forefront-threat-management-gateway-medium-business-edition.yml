@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Gateway for Microsoft Forefront Threat Management, Medium Business Edition
-  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition følger policyen for fast livssyklus.
+  title: Microsoft Forefront Threat Management Gateway, Medium Business-utgave
+  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830928"
-name: Gateway for Microsoft Forefront Threat Management, Medium Business Edition
+name: Microsoft Forefront Threat Management Gateway, Medium Business-utgave
 summary: >+
-  Microsoft Forefront Threat Management Gateway, Medium Business Edition følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Forefront Threat Management Gateway, Medium Business Edition følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Business
+  Dette gjelder for følgende versjoner: Business
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Bedrift"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Business"
