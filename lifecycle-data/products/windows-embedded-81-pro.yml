@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Innebygd 8.1 Pro for Windows
-  description: Windows Embedded 8.1 Pro følger policyen for fast livssyklus.
+  title: Windows Embedded 8.1 Pro
+  description: Windows Embedded 8.1 Pro følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859738"
-name: Innebygd 8.1 Pro for Windows
+name: Windows Embedded 8.1 Pro
 summary: >+
-  Windows Embedded 8.1 Pro følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Embedded 8.1 Pro følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:
