@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: Microsoft Commerce Server 2007 følger policyen for fast livs syklus.
+  description: Microsoft Commerce Server 2007 følger den faste livssykluspolicyen.
   ms.date: 08/12/2020
   ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893471"
 name: Microsoft Commerce Server 2007
 summary: >
-  Microsoft Commerce Server 2007 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Microsoft Commerce Server 2007 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende versjoner: utvikler, Enterprise, standard
+  Dette gjelder følgende utgaver: Developer, Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet.
+  > Støtte for dette produktet er avsluttet
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Versjonen \n* Utvikler\n* Virksomheter\n* Standardkosten"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Developer\n* Enterprise\n* Standard"
