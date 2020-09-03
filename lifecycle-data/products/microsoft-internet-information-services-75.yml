@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Internet Information Services 7.5
-  description: Microsoft Internet Information Services 7.5 følger policyen for komponentlivssyklus.
+  description: Microsoft Windows Information Services 7.5 følger livssykluspolicyen for komponenter.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22b88b7209f8aea2ae47d7486d5c946008768d76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831297"
 name: Microsoft Internet Information Services 7.5
 summary: >+
-  Microsoft Internet Information Services 7.5 følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Windows Information Services 7.5 følger livssykluspolicyen for [komponenter](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:

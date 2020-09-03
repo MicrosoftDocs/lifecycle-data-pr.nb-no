@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communications Server 2007
-  description: Microsoft Office Communications Server 2007 følger policyen for fast livssyklus.
+  description: Microsoft Office Communications Server 2007 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 80fa4146ce4ae0ec8055a0915fa75ef64551f9f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831284"
 name: Microsoft Office Communications Server 2007
 summary: >+
-  Microsoft Office Communications Server 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Office Communications Server 2007 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Enterprise, Standard
+  Dette gjelder for følgende versjoner: Enterprise, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/27/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise\n* Standard"

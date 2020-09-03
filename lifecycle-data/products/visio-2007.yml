@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visio 2007
-  description: Visio 2007 følger policyen for fast livssyklus.
+  description: Visio 2007 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: a8a9b82837dc1542ef98770a51dc64f37a888318
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830455"
 name: Visio 2007
 summary: >+
-  Visio 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Visio 2007 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder for følgende utgaver: Professional, Standard
+  Dette gjelder for følgende versjoner: Professional, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n* [Overføringsveiledning](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Profesjonell\n* Standard (Standard)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n* [Veiledning for overføring](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Professional\n* Standard"

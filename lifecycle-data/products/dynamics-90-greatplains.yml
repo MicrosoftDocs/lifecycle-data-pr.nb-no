@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 9.0 GreatPlains
-  description: Dynamics 9.0 GreatPlains følger policyen for fast livssyklus.
+  description: Dynamics 9.0 GreatPlains følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830381"
 name: Dynamics 9.0 GreatPlains
 summary: >
-  Dynamics 9.0 GreatPlains følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Dynamics 9.0 GratPlains følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet.
+  > Støtte for dette produktet er avsluttet
 products:
 - dynamics
 policyType: fixed

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft .NET Framework 4.0
-  description: Microsoft .NET Framework 4.0 følger policyen for komponentlivssyklus.
+  description: Microsoft .NET Framework 4.0 følger komponentets livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: e43bfc52befb82fbb52ee258076d2ebb53e53e35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831293"
 name: Microsoft .NET Framework 4.0
 summary: >+
-  Microsoft .NET Framework 4.0 følger [policyen for komponentlivssyklus.](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.0 følger [komponentets](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) livssykluspolicyen.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/31/2010
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus – .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformasjon](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-4)\n\n> [!NOTE]\n> Støtte for .NET Framework 4, 4.5 og 4.5.1 ble avsluttet 12."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [Produktinformasjon](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-4)\n\n> [!NOTE]\n> Støtte for .NET Framework 4, 4.5 og 4.5.1 ble avsluttet 12. januar 2016."

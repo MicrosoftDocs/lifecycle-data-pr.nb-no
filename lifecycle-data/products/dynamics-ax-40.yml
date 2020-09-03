@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 4.0
-  description: Dynamics AX 4.0 følger policyen for fast livssyklus.
+  description: Dynamics AX 4.0 følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
   ms.openlocfilehash: fabf8d8544251b9b59f3873a258d39549aa1d978
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830375"
 name: Dynamics AX 4.0
 summary: >+
-  Dynamics AX 4.0 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Dynamics AX 4.0 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:
