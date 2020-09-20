@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Compute Cluster Pack
-  description: Microsoft Compute Cluster Pack følger policyen for fast livssyklus.
+  title: Klyngepakke for Microsoft Compute
+  description: Klyngepakken for Microsoft Compute følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830955"
-name: Microsoft Compute Cluster Pack
+name: Klyngepakke for Microsoft Compute
 summary: >
-  Microsoft Compute Cluster Pack følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Klyngepakken for Microsoft Compute følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet.
+  > Støtte for dette produktet er avsluttet
 products:
 - windows
 policyType: fixed

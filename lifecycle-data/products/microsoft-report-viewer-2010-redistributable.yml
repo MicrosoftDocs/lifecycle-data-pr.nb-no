@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Kan distribueres på nytt i Microsoft Report Viewer 2010
+  title: Microsoft Report Viewer 2010 Redistributable
   description: Microsoft Report Viewer 2010 Redistributable følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830331"
-name: Kan distribueres på nytt i Microsoft Report Viewer 2010
+name: Microsoft Report Viewer 2010 Redistributable
 summary: >+
-  Microsoft Report Viewer 2010 Redistributable følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft Report Viewer 2010 Redistributable følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
