@@ -5,19 +5,19 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830270"
 name: Windows Storage Server 2003
 summary: >
-  Windows Storage Server 2003 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Storage Server 2003 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet. Se overføringsveiledning nedenfor.
+  > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
 products:
 - windows
 policyType: fixed

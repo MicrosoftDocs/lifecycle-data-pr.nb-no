@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Virtuell PC for Mac
-  description: Virtuell PC for Mac følger policyen for fast livssyklus.
+  description: Virtual PC for Mac følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830822"
 name: Virtuell PC for Mac
 summary: >+
-  Virtuell PC for Mac følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Virtual PC for Mac følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:

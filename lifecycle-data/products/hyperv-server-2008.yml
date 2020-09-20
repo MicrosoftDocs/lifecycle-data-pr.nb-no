@@ -5,12 +5,12 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: bd8d2e95bcfd7b35689eea4aab205a9e22550440
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831032"
 name: Hyper-V Server 2008
-summary: "Hyper-V Server 2008 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.\n\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet. Se overføringsveiledning nedenfor. \n"
+summary: "Hyper-V Sercer 2008 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.\n\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor. \n"
 products:
 - windows
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/windows-server/get-started/modernize-windows-server-2008)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/windows-server/get-started/modernize-windows-server-2008)"

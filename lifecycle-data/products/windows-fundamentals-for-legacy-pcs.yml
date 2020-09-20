@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Grunnleggende om Windows for eldre PCer
-  description: Grunnleggende om Windows for eldre PCer følger policyen for fast livssyklus.
+  title: Windows Fundamentals for eldre PC-er
+  description: Windows Fundamentals for eldre PCer følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830280"
-name: Grunnleggende om Windows for eldre PCer
+name: Windows Fundamentals for eldre PC-er
 summary: >+
-  Grunnleggende om Windows for eldre PCer følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Fundamentals for eldre PCer følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:

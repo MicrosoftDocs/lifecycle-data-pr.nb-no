@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Virtuell PC 2007
+  title: Virtual PC 2007
   description: Virtual PC 2007 følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: f4c016f39a3c567e73c1f143299d4cbe59a6f528
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830823"
-name: Virtuell PC 2007
+name: Virtual PC 2007
 summary: >
-  Virtual PC 2007 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Virtual PC 2007 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 
   > [!IMPORTANT]
 
-  > Støtte for dette produktet er avsluttet.
+  > Støtte for dette produktet er avsluttet
 products:
 - windows
 policyType: fixed
