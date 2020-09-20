@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871071"
 name: Hyper-V Server 2019
 summary: >+
-  Hyper-V Server 2019 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Hyper-V Server 2019 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Windows Server-fellesskapet](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 og Windows Server, versjon 1809 ble utgitt på nytt 13. Støttedatoer er justert tilsvarende."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Windows Server Community](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 og Windows Server, versjon 1809 ble utgitt på nytt 13. nov. 2018. Støttedatoer har blitt oppdatert henholdsvis."

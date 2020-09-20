@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Personal
-  description: Dynamics 365 Human Resources følger den moderne livssykluspolicyen.
+  title: Dynamics 365 Personale
+  description: Dynamics 365 Personale følger policyen for moderne livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: a7014b000d8d7613d8ca9eb2a2c3595083b9951c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871104"
-name: Dynamics 365 Personal
+name: Dynamics 365 Personale
 summary: >+
-  Dynamics 365 Human Resources følger den [moderne](/lifecycle/policies/modern) livssykluspolicyen.
+  Dynamics 365 Personale følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/27/2020
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Core HR-appen (tidligere inkludert i Dynamics 365 Talent) har startet på nytt som Dynamics 365 Human Resources."
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> Core HR-appen (tidligere levert med Dynamics 365 Talent) har blitt omlansert som Dynamics 365 Human Resources."

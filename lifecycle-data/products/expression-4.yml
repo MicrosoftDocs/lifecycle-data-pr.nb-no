@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Uttrykk 4
-  description: Uttrykk 4 følger policyen for fast livs syklus.
+  title: Expression 4
+  description: Expression 4 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930871"
-name: Uttrykk 4
+name: Expression 4
 summary: >+
-  Uttrykk 4 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Expression 4 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende versjoner: design, koder, Studio Ultimate, Web
+  Dette gjelder for følgende versjoner: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> Slutten av vanlig støtte for Expression Studio Ultimate 4 er oktober 13, 2015.\n\n## <a name=\"editions\"></a>Utgaver \n* Utformingsreplikaen\n* Koder\n* Studio Ultimate\n* Web"
+content: "\n\n> [!NOTE]\n> Avslutning av generell støtte for Expression Studio Ultimate 4 er 13. oktober 2015.\n\n## <a name=\"editions\"></a>Utgaver \n* Design\n* Encoder\n* Studio Ultimate\n* Web"
