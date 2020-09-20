@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage server 2016
-  description: Windows Storage server 2016 følger policyen for fast livs syklus.
+  title: Windows Storage Server 2016
+  description: Windows Storage Server 2016 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938974"
-name: Windows Storage server 2016
+name: Windows Storage Server 2016
 summary: >+
-  Windows Storage server 2016 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Windows Storage Server 2016 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende versjoner: Standard, Arbeidsgruppe
+  Dette gjelder følgende utgaver: Standard, Workgroup
 
 products:
 - windows
