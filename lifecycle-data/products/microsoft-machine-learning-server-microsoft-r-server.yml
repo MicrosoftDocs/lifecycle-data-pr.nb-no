@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859386"
 name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: >+
-  Microsoft Machine Learning Server (Microsoft R Server) følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+  Microsoft Machine Learning Server (Microsoft R Server) følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:

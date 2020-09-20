@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2019
-  description: Microsoft Office 2019 følger policyen for fast livs syklus.
+  description: Microsoft Office 2019 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930390"
 name: Microsoft Office 2019
 summary: >+
-  Microsoft Office 2019 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Microsoft Office 2019 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende versjoner: Hjem og næringsliv, hjem og studenter, personlig, profesjonell, profesjonell akademisk, profesjonell pluss, standard
+  Dette gjelder følgende utgaver: Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office

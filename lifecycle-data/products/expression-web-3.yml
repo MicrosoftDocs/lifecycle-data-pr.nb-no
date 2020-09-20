@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Uttrykk 3
-  description: Uttrykk 3 følger policyen for fast livs syklus.
+  title: Expression 3
+  description: Expression 3 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
   ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930760"
-name: Uttrykk 3
+name: Expression 3
 summary: >+
-  Uttrykk 3 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Expression 3 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende versjoner: utforming, koder, Studio, Web
+  Dette gjelder for følgende versjoner: Design, Encoder, Studio, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> Start datoen for uttrykks utforming 3 er november 19, 2009. \n\n## <a name=\"editions\"></a>Utgaver \n* Utformingsreplikaen\n* Koder\n* Studio\n* Web"
+content: "\n\n> [!NOTE]\n> Startdatoen for Expression Design 3 er 19. november 2009. \n\n## <a name=\"editions\"></a>Utgaver \n* Design\n* Encoder\n* Studio\n* Web"

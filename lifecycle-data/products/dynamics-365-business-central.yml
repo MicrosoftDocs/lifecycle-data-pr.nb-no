@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 Business Central
-  description: Dynamics 365 Business Central følger den moderne livssykluspolicyen.
+  description: Dynamics 365 Business Central følger policyen for moderne livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859547"
 name: Dynamics 365 Business Central
 summary: >+
-  Dynamics 365 Business Central følger den [moderne](/lifecycle/policies/modern) livssykluspolicyen.
+  Dynamics 365 Business Central følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:
