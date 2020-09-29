@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype Rom Systemer v2
-  description: Skype Room Systems v2 følger retningslinjene for moderne livssyklus.
+  title: Skype Room Systems v2
+  description: Skype Room Systems v2 følger policyen for moderne livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859657"
-name: Skype Rom Systemer v2
+name: Skype Room Systems v2
 summary: >+
-  Skype Room Systems v2 følger retningslinjene for [moderne](/lifecycle/policies/modern) livssyklus.
+  Skype Room Systems v2 følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:

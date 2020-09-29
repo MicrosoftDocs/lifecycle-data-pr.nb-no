@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859273"
 name: Azure StorSimple 1200-serien
 summary: >+
-  Azure StorSimple 1200 Series følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Azure StorSimple 1200 Series følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/28/2016
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Overføringsveiledning](/azure/storage/files/storage-files-migration-storsimple-1200)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/azure/storage/files/storage-files-migration-storsimple-1200)"
