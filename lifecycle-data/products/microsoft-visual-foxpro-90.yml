@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual FoxPro 9,0
-  description: Microsoft Visual FoxPro 9,0 følger policyen for fast livs syklus.
+  title: Microsoft Visual FoxPro 9.0
+  description: Microsoft Visual FoxPro 9.0 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Professional
   ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929317"
-name: Microsoft Visual FoxPro 9,0
+name: Microsoft Visual FoxPro 9.0
 summary: >+
-  Microsoft Visual FoxPro 9,0 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Microsoft Visual FoxPro 9.0 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder for følgende versjoner: profesjonell
+  Dette gjelder for følgende versjoner: Professional
 
 products:
 - vs
