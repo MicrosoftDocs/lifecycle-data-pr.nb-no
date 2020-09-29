@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365-oppsett
-  description: Dynamics 365-oppsettet følger den moderne livs syklus policyen.
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout følger policyen for moderne livssyklus.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891852"
-name: Dynamics 365-oppsett
+name: Dynamics 365 Layout
 summary: >+
-  Dynamics 365-oppsettet følger den [moderne](/lifecycle/policies/modern) livs syklus policyen.
+  Dynamics 365 Layout følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Oppsett og fjern hjelp](/dynamics365/mixed-reality/layout/faq)\n* [Kunngjøring om overgangen til Dynamics 365-oppsettet](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>Koblinger \n* [Layout og Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Kunngjøring av overgangen av Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

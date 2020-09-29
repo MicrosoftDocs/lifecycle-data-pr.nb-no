@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 875ab9d5c18f9945a0b32539e1ae75401ebbd978
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "871206"
 name: System Center 2019 Virtual Machine Manager
 summary: >+
-  System Center 2019 Virtual Machine Manager følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  System Center 2019 Virtual Machine Manager følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:

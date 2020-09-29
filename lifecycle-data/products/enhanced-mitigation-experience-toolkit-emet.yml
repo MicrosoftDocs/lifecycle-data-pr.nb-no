@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Forbedret verktøy sett for begrensende opplevelse (EMET)
-  description: Forbedret verktøy sett for demping av forbedring (EMET) følger policyen for fast livs syklus.
+  title: Enhanced Mitigation Experience Toolkit (EMET)
+  description: Enhanced Mitigation Experience Toolkit (EMET) følger policyen for fast livssyklus.
   ms.date: 08/20/2020
   ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
   ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905317"
-name: Forbedret verktøy sett for begrensende opplevelse (EMET)
+name: Enhanced Mitigation Experience Toolkit (EMET)
 summary: >+
-  Forbedret verktøy sett for demping av forbedring (EMET) følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Enhanced Mitigation Experience Toolkit (EMET) følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
