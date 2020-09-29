@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "830284"
 name: Windows Communication Foundation RIA-tjenester
 summary: >+
-  Windows Communication Foundation RIA Services følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Windows Communication Foundation RIA Services følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
