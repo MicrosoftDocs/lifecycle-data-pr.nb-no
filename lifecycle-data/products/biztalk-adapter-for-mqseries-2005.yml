@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: BizTalk-adapter for MQSeries 2005
-  description: BizTalk-kort for MQSeries 2005 følger policyen for fast livssyklus.
+  description: Microsoft BizTalk for MQSeries 2005 følger policyen for fast livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "831208"
 name: BizTalk-adapter for MQSeries 2005
 summary: >+
-  BizTalk-kort for MQSeries 2005 følger policyen [for fast](/lifecycle/policies/fixed) livssyklus.
+  Microsoft BizTalk for MQSeries 2005 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 products:
