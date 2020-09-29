@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove 3,1
-  description: Groove 3,1 følger policyen for fast livs syklus.
+  title: Groove 3.1
+  description: Groove 3.1 følger policyen for fast livssyklus.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950857"
-name: Groove 3,1
+name: Groove 3.1
 summary: >+
-  Groove 3,1 følger policyen for [fast](/lifecycle/policies/fixed) livs syklus.
+  Groove 3.1 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
-  Dette gjelder følgende versjoner: Enterprise backup-tjeneste, Enterprise data Bridge, Enterprise Relay server, verts administrasjons tjenester, vertsbaserte overførings tjenester, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
+  Dette gjelder for følgende versjoner: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise backup-tjeneste\n* Bedrifts data Bridge\n* Enterprise Relay server\n* Vertsbaserte administrasjons tjenester\n* Vertsbaserte relé tjenester\n* Office Project\n* Deling av virtuell Office-fil\n* Virtual Office Professional\n* Utviklings sett for web tjenester"
+content: "\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
