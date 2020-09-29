@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Project Online Desktop-klient
-  description: Project Online Desktop Client følger policyen for moderne livssyklus.
+  title: Skrivebordsklienten for Project Online
+  description: Skrivebordsklienten for Project Online følger policyen for moderne livssyklus.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859362"
-name: Project Online Desktop-klient
+name: Skrivebordsklienten for Project Online
 summary: >+
-  Project Online Desktop Client følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+  Skrivebordsklienten for Project Online følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:

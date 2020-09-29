@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: nb-NO
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "859694"
 name: SQL Server Management Studio
 summary: >+
-  SQL Server Management Studio følger policyen [for moderne](/lifecycle/policies/modern) livssyklus.
+  SQL Server Management Studio følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 products:
