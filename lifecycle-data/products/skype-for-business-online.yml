@@ -2,13 +2,14 @@
 metadata:
   title: Skype for Business Online
   description: Skype for Business Online følger policyen for moderne livssyklus.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "859659"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162195"
 name: Skype for Business Online
 summary: >
   Skype for Business Online følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Denne tjenesten vil avvikles den 31. juli 2021. Se overføringsveiledning nedenfor.
+  > Denne tjenesten vil avvikles den 31. juli 2021. Se overføringsveiledning nedenfor. Gå [hit](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) for å finne ut mer om innvirkning på Hybrid Voice-distribusjoner.
 products:
 - office
 policyType: modern-online
