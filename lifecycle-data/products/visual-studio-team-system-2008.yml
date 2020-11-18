@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team System 2008
-  description: Visual Studio Team System 2008 følger den faste livssykluspolicyen.
+  description: Visual Studio Team System 2008 følger policyen for fast livssyklus.
   ms.date: 09/02/2020
   keywords: All,Architecture,Database,Development,Team Explorer,Team Test Load Agent,TFS
   ms.openlocfilehash: 41a7a602e0aea666c7da8593af19243a881ec064
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "945306"
 name: Visual Studio Team System 2008
 summary: >
-  Visual Studio Team System 2008 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Visual Studio Team System 2008 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder for følgende versjoner: Alle, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS

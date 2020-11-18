@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2003
-  description: Microsoft Office 2003 følger den faste livssykluspolicyen.
+  description: Microsoft Office 2003 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Basic,Professional,Professional Enterprise,Small Business,Standard,Student and Teacher,Web Components
   ms.openlocfilehash: 95e78ca50e366f9a9a5363d5df1dedbe94efcd17
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "936843"
 name: Microsoft Office 2003
 summary: >+
-  Microsoft Office 2003 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Microsoft Office 2003 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder for følgende versjoner: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components

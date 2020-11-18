@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office Communicator 2007 R2
-  description: Microsoft Office Communicator 2007 R2 følger den faste livssykluspolicyen.
+  description: Microsoft Office Communicator 2007 R2 følger policyen for fast livssyklus.
   ms.date: 09/10/2020
   keywords: All applicable,Phone
   ms.openlocfilehash: 1c08a0c9475ec3d3e6cfb381385a78a71b514d66
@@ -11,7 +11,7 @@ metadata:
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1001732"
 name: Microsoft Office Communicator 2007 R2
-summary: "Microsoft Office Communicator 2007 R2 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.\n\nDette gjelder følgende utgaver: Alle gyldige, Phone\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor. \n"
+summary: "Microsoft Office Communicator 2007 R2 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.\n\nDette gjelder følgende utgaver: Alle gyldige, Phone\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor. \n"
 products:
 - office
 policyType: fixed

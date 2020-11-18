@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft System Center Mobile Device Manager 2008
-  description: Microsoft System Center Mobile Device Manager 2008 følger den faste livssykluspolicyen.
+  description: Microsoft System Center Mobile Device Manager 2008 følger policyen for fast livssyklus.
   ms.date: 09/10/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1001436"
 name: Microsoft System Center Mobile Device Manager 2008
 summary: >+
-  Microsoft System Center Mobile Device Manager 2008 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Microsoft System Center Mobile Device Manager 2008 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder følgende utgaver: Alle gyldige, wSQL

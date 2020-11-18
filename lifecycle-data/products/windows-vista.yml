@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Vista
-  description: Windows Vista følger den faste livssykluspolicyen.
+  description: Windows Vista følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Business,Business N,Business N 64-bit,Enterprise,Enterprise X64,Home Basic,Home Basic 64-bit,Home Basic N,Home Basic N 64-bit,Home Premium,Home Premium 64-bit,Starter,Ultimate,Ultimate 64-bit
   ms.openlocfilehash: 4ee6353668b69dd9b05e6ee202a37dcfebb0ce10
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "938937"
 name: Windows Vista
 summary: >
-  Windows Vista følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Windows Vista følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder for følgende versjoner: Business, Business N, Business N 64-biters, Enterprise, Enterprise X64, Home Basic, Home Basic 64-biters, Home Basic N, Home Basic N 64-biters, Home Premium, Home Premium 64-biters, Starter, Ultimate, Ultimate 64-biters
