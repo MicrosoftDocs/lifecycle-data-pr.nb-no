@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Embedded 8.1 Industry
-  description: Windows Embedded 8.1 Industry følger den faste livssykluspolicyen.
+  description: Windows Embedded 8.1 Industry følger policyen for fast livssyklus.
   ms.date: 09/10/2020
   keywords: Enterprise,Pro,Sideloading
   ms.openlocfilehash: e033f9a8e05ac0646caf13dd8642e70cfa6bb16a
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002435"
 name: Windows Embedded 8.1 Industry
 summary: >+
-  Windows Embedded 8.1 Industry følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Windows Embedded 8.1 Industry følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder følgende utgaver: Enterprise, Pro, Sideloading
