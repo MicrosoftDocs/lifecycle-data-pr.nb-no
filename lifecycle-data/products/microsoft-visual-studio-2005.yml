@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Visual Studio 2005
-  description: Microsoft Visual Studio 2005 følger den faste livssykluspolicyen.
+  description: Microsoft Visual Studio 2005 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
   ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "937605"
 name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Microsoft Visual Studio 2005 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder for følgende versjoner: Professional, Standard, akademisk lisens for Standard Edition, Team Edition for databaseeksperter, Team Edition for programvarearkitekt, Team Edition for programvareutviklere, Team Edition for programvaretestere, Team Suite, Team Test Load Agent, Verktøy for Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express

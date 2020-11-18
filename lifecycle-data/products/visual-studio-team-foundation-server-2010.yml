@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio Team Foundation Server 2010
-  description: Visual Studio Team Foundation Server 2010 følger den faste livssykluspolicyen.
+  description: Visual Studio Team Foundation Server 2010 følger policyen for fast livssyklus.
   ms.date: 09/10/2020
   keywords: All applicable,External Connector
   ms.openlocfilehash: 4830d0684302b10940725131790657bce7758844
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1000072"
 name: Visual Studio Team Foundation Server 2010
 summary: >+
-  Visual Studio Team Foundation Server 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Visual Studio Team Foundation Server 2010 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder følgende utgaver: alle gyldige, ekstern kontakt

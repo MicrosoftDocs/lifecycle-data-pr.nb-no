@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Storage Server 2008
-  description: Windows Storage Server 2008 følger den faste livssykluspolicyen.
+  description: Windows Storage Server 2008 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
   ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "939048"
 name: Windows Storage Server 2008
 summary: >
-  Windows Storage Server 2008 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Windows Storage Server 2008 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder for følgende versjoner: Basic, Basic 32-Bit, Basic 64-bit, Basic Embedded, Basic Embedded 32-bit, Enterprise, Enterprise Embedded, Standard, Standard Embedded, Workgroup
