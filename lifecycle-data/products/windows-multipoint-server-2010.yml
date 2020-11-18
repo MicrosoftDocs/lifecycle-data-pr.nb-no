@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows MultiPoint Server 2010
-  description: Windows MultiPoint Server 2010 følger den faste livssykluspolicyen.
+  description: Windows MultiPoint Server 2010 følger policyen for fast livssyklus.
   ms.date: 09/10/2020
   keywords: Academic,Standard
   ms.openlocfilehash: f9e297cd03fde9252b00c3f419b29a2ffc49df32
@@ -12,7 +12,7 @@ metadata:
   ms.locfileid: "1002472"
 name: Windows MultiPoint Server 2010
 summary: >+
-  Windows MultiPoint Server 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
+  Windows MultiPoint Server 2010 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
   Dette gjelder følgende utgaver: Academic, Standard
