@@ -2,20 +2,21 @@
 metadata:
   title: Microsoft System Center 2012 Endpoint Protection
   description: Microsoft System Center 2012 Endpoint Protection følger den faste livssykluspolicyen.
-  ms.date: 09/01/2020
-  keywords: for Mac
-  ms.openlocfilehash: 3a2117da623b0703923ec5be8fb9a3d9e083a3fa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/27/2021
+  keywords: 
+  ms.openlocfilehash: 19d214a2ef4e1e2f97d36fc529606178e198e61f
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937679"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255105"
 name: Microsoft System Center 2012 Endpoint Protection
 summary: >+
   Microsoft System Center 2012 Endpoint Protection følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
-  Dette gjelder følgende utgaver: for Mac
+
+
 
 products:
 - msc
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Serviceinformasjon](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Veiledning for overføring](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n* [System Center-dokumentasjon](/system-center/#pivot=components&panel=components-all)\n\n> [!NOTE]\n> Kunder må være oppdatert med den nyeste versjon av antivirus-plattformen for å få fullstendig støtte.\n\n## <a name=\"editions\"></a>Utgaver \n* for Mac"
+content: "\n\n## <a name=\"links\"></a>Koblinger \n* [Serviceinformasjon](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [Veiledning for overføring](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n* [System Center-dokumentasjon](/system-center/#pivot=components&panel=components-all)\n\n\n> [!NOTE]\n> Kunder må være oppdatert med den nyeste versjon av antivirus-plattformen for å få fullstendig støtte."
