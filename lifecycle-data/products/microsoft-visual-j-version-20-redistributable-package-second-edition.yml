@@ -1,28 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Visual J# versjon 2.0 Redistruerbar pakke, andre utgave
+  title: 'Microsoft Visual J# versjon 2.0 Redistruerbar pakke, andre utgave'
   description: Microsoft Visual J# versjon 2.0 Redistributable Package Second Edition følger den faste livssykluspolicyen.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "830467"
-name: Microsoft Visual J# versjon 2.0 Redistruerbar pakke, andre utgave
-summary: >+
+name: 'Microsoft Visual J# versjon 2.0 Redistruerbar pakke, andre utgave'
+summary: |+
   Microsoft Visual J# versjon 2.0 Redistributable Package Second Edition følger den [faste](/lifecycle/policies/fixed) livssyklupolicyen.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 08/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 08/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Støtteinformasjon om Visuell J#](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor."
+  - version: Original Release
+    startDate: 08/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>Koblinger 
+  * [Støtteinformasjon om Visuell J#](https://msdn.microsoft.com/vstudio/bb188593)
+
+  > [!NOTE]
+  > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
