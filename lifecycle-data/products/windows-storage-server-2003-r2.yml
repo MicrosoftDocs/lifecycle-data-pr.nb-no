@@ -4,26 +4,34 @@ metadata:
   description: Windows Storage Server 2003 R2 følger policyen for fast livssyklus.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940904"
 name: Windows Storage Server 2003 R2
-summary: "Windows Storage Server 2003 R2 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.\n\nDette gjelder for følgende versjoner: Standard\n\n> [!IMPORTANT]\n> Støtte for dette produktet er avsluttet\nDette produktet leveres med Windows Server 2003 Service Pack 1. \n"
+summary: |
+  Windows Storage Server 2003 R2 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
+
+  Dette gjelder for følgende versjoner: Standard
+
+  > [!IMPORTANT]
+  > Støtte for dette produktet er avsluttet
+  Dette produktet leveres med Windows Server 2003 Service Pack 1. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Standard"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |
+
+  ## <a name="links"></a>Koblinger 
+  * [Veiledning for overføring](/windows-server/upgrade/upgrade-overview)
+
+
+  ## <a name="editions"></a>Utgaver 
+  * Standard

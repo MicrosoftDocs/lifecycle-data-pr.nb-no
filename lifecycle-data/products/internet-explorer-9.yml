@@ -3,23 +3,24 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 følger livssykluspolicyen for komponenter.
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893619"
 name: Internet Explorer 9
-summary: >+
+summary: |+
   Internet Explorer 9 følger livssykluspolicyen for [komponenter](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy).
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://www.microsoft.com/itpro/microsoft-edge)\n* [Vanlige spørsmål om livssykluspolicy for Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Etter 12. januar 2016 får bare den nyeste versjonen av Internet Explorer som er tilgjengelige for et operativsystem teknisk støtte og sikkerhetsoppdateringer."
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>Koblinger 
+  * [Veiledning for overføring](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Vanlige spørsmål om livssykluspolicy for Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > Etter 12. januar 2016 får bare den nyeste versjonen av Internet Explorer som er tilgjengelige for et operativsystem teknisk støtte og sikkerhetsoppdateringer.
