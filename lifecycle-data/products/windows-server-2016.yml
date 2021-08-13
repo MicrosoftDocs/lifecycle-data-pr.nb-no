@@ -3,17 +3,10 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 følger policyen for fast livssyklus.
   ms.date: 07/09/2021
-  keywords: 
-  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255253"
+  keywords: null
 name: Windows Server 2016
-summary: >+
+summary: |+
   Windows Server 2016 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
-
 
 
   Dette gjelder for følgende versjoner: Datasenter, Essentials, MultiPoint Premium, Standard
@@ -21,14 +14,31 @@ summary: >+
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/15/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
-content: "\n\n## <a name=\"links\"></a>Koblinger \n* [Produktinformasjon](/windows-server/get-started/server-basics)\n* [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)\n* [Windows livssyklus for beholderbase-bildetjeneste](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Beholdere utgitt med Windows Server 2016 følger de samme livssyklusdatoene.\n\n\n## <a name=\"editions\"></a>Utgaver \n* Datacenter\n* Nødvendigheter\n* MultiPoint Premium\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 01/12/2027
+content: |+
+
+
+  ## <a name="links"></a>Koblinger 
+  * [Produktinformasjon](/windows-server/get-started/server-basics)
+  * [Vanlige spørsmål om livssyklus - Windows-produkter](/lifecycle/faq/windows)
+  * [Windows livssyklus for beholderbase-bildetjeneste](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
+
+
+  > [!NOTE]
+  > Beholdere utgitt med Windows Server 2016 følger de samme livssyklusdatoene.
+
+
+  ## <a name="editions"></a>Utgaver 
+  * Datacenter
+  * Nødvendigheter
+  * MultiPoint Premium
+  * Standard
