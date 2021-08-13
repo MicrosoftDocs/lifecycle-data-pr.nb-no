@@ -4,32 +4,35 @@ metadata:
   description: SharePoint Foundation 2010 følger den faste livssykluspolicyen.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162750"
 name: SharePoint Foundation 2010
-summary: >+
+summary: |+
   SharePoint Foundation 2010 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 04/13/2021
 releases:
-- version: Service Pack 2
-  startDate: 07/21/2013
-  endDate: 04/13/2021
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 10/14/2014
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Utviklerdokumentasjon for Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))\n* [Produktdokumentasjon for Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> Dette produktets slutt på støtte har blitt utsatt fra 13. oktober 2020 til 13. april 2021."
+  - version: Service Pack 2
+    startDate: 07/21/2013
+    endDate: 04/13/2021
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 10/14/2014
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 07/10/2012
+content: |+
+
+  ## <a name="links"></a>Koblinger 
+  * [Veiledning for overføring](/office365/enterprise/upgrade-from-sharepoint-2010)
+  * [Utvidelse av støtte](https://aka.ms/SharePoint/server/2010/supportextension)
+  * [Utviklerdokumentasjon for Microsoft SharePoint Foundation 2010](/previous-versions/office/ee535067(v=office.14))
+  * [Produktdokumentasjon for Microsoft SharePoint Foundation 2010](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))
+
+  > [!NOTE]
+  > Dette produktets slutt på støtte har blitt utsatt fra 13. oktober 2020 til 13. april 2021.

@@ -1,41 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Commerce Server 2007
-  description: Microsoft Commerce Server 2007 følger policyen for fast livssyklus.
+  description: Microsoft Commerce Server 2007 følger den faste livssykluspolicyen.
   ms.date: 09/10/2020
-  keywords: Developer,Enterprise,Standard
-  ms.openlocfilehash: af39b48f1bcdeb6db20aced8088eeba1bec08140
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000178"
+  keywords: 'Developer,Enterprise,Standard'
 name: Microsoft Commerce Server 2007
-summary: >
-  Microsoft Commerce Server 2007 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
-
+summary: |
+  Microsoft Commerce Server 2007 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
 
   Dette gjelder følgende utgaver: Developer, Enterprise, Standard
 
-
   > [!IMPORTANT]
-
   > Støtte for dette produktet er avsluttet
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/16/2006
   end: 07/12/2011
   extendedEnd: 07/12/2016
 releases:
-- version: Service Pack 2
-  startDate: 05/29/2008
-  endDate: 07/12/2016
-- version: Service Pack 1
-  startDate: 06/22/2007
-  endDate: 07/14/2009
-- version: Original Release
-  startDate: 06/16/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Developer\n* Enterprise\n* Standard"
+  - version: Service Pack 2
+    startDate: 05/29/2008
+    endDate: 07/12/2016
+  - version: Service Pack 1
+    startDate: 06/22/2007
+    endDate: 07/14/2009
+  - version: Original Release
+    startDate: 06/16/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>Koblinger 
+  * [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>Utgaver 
+  * Developer
+  * Enterprise
+  * Standard
