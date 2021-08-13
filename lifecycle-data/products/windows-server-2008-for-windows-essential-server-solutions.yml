@@ -3,36 +3,36 @@ metadata:
   title: Windows Server 2008 for Windows Essential Server Solutions
   description: Windows Server 2008 for Windows Essential Server Solutions følger den faste livssykluspolicyen.
   ms.date: 09/01/2020
-  keywords: Standard,without Hyper-V
-  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939566"
+  keywords: 'Standard,without Hyper-V'
 name: Windows Server 2008 for Windows Essential Server Solutions
-summary: >
+summary: |
   Windows Server 2008 for Windows Essential Server Solutions følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
-
 
   Dette gjelder for følgende versjoner: Standard, uten Hyper-V
 
-
   > [!IMPORTANT]
-
   > Støtte for dette produktet er avsluttet Se overføringsveiledning nedenfor.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/18/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Service Pack 2
-  startDate: 04/29/2009
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 02/18/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Veiledning for overføring](https://aka.ms/AA1ovn4)\n* [Produktinformasjon](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Standard\n* uten Hyper-V"
+  - version: Service Pack 2
+    startDate: 04/29/2009
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 02/18/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>Koblinger 
+  * [Veiledning for overføring](https://aka.ms/AA1ovn4)
+  * [Produktinformasjon](https://cloudblogs.microsoft.com/windowsserver/2008/02/20/introducing-windows-essential-server-solutions/)
+
+
+  ## <a name="editions"></a>Utgaver 
+  * Standard
+  * uten Hyper-V
