@@ -3,32 +3,36 @@ metadata:
   title: Windows 8
   description: Windows 8 følger den faste livssykluspolicyen.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: nb-NO
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002324"
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
 name: Windows 8
-summary: >
+summary: |
   Windows 8 følger den [faste](/lifecycle/policies/fixed) livssykluspolicyen.
-
 
   Dette gjelder for følgende versjoner: Enterprise, Enterprise N, N, Pro med Media Center, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > Støtte for dette produktet er avsluttet Kunder må oppdatere til Windows Embedded 8.1 for å forbli støttet.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>Koblinger \n* [Vanlige spørsmål om livssyklus - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>Utgaver \n* Enterprise\n* Enterprise N\n* N\n* Pro med Media Center\n* Professional\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>Koblinger 
+  * [Vanlige spørsmål om livssyklus - Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>Utgaver 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Pro med Media Center
+  * Professional
+  * Professional N
+  * SL
