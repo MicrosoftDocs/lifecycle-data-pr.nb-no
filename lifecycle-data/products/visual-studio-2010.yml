@@ -2,21 +2,21 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 følger policyen for fast livssyklus.
-  ms.date: 05/28/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 9c47b333fbc21c3838ae632cf564e3902ed5009f233804ae919fcb82978c0395
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
   ms.translationtype: HT
   ms.contentlocale: nb-NO
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2512508"
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510956"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 følger policyen for [fast](/lifecycle/policies/fixed) livssyklus.
 
 
 
-  Dette gjelder for følgende versjoner: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  Dette gjelder for følgende versjoner: Express for Web, Express for Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 
 
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010 Tools for Office (VSTO) Runtime leveres med forskjellige versjoner av Visual Studio og Microsoft Office og følger livssyklusen til det overordnede produktet. Den kan også lastes ned separat, [her](https://www.microsoft.com/download/details.aspx?id=56961).\n\n\n## <a name=\"editions\"></a>Utgaver \n* Agenter\n* Alle\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Kjøretid\n* Administrasjon av laboratorier\n* Ytelsesverktøy\n* Premium\n* Professional\n* Professional m/MSDN \n* PSM\n* Eksternt feilsøkingsprogram\n* SDK\n* Shell (integrert)\n* Skall (isolert)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Ultimate\n* Ultimate med MSDN\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualisering og modellering-SDK"
+content: "\n\n## <a name=\"links\"></a>Koblinger \n* [Policy for oppdateringspakke](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010-versjoner av følgende komponenter leveres med og støttes som en del av Visual Studio 2010-livssyklusen: Agents, Alle, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, ytelsesverktøy, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Ultimate with MSDN, Visualization & Modelling SDK.\n\n\n## <a name=\"editions\"></a>Utgaver \n* Express for Web\n* Express for Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"
