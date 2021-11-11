@@ -2,30 +2,32 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge følger policyen for moderne livssyklus.
-  ms.date: 07/17/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: IE; browser; Internet Explorer
+  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: nb-NO
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560067"
 name: Microsoft Edge
-summary: |+
+summary: >+
   Microsoft Edge følger policyen for [moderne](/lifecycle/policies/modern) livssyklus.
 
 
 
 
+
   > [!IMPORTANT]
+
   > Legg merke til at støtte for den eldre versjonen av dette produktet avsluttes 9. mars 2021. Gå [hit](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) for å finne ut mer.
 
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-  - version: Original Release
-    startDate: 01/15/2020
-content: |+
-
-
-  ## <a name="links"></a>Koblinger 
-  * [Operativsystemer som støttes av Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)
-  * [Vanlige spørsmål om livssyklus – Internet Explorer og Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
-  * [Microsoft Edge-livssykluspolicy](/deployedge/microsoft-edge-support-lifecycle)
+- version: Original Release
+  startDate: 01/15/2020
+content: "\n\n## <a name=\"links\"></a>Koblinger \n* [Operativsystemer som støttes av Microsoft Edge](/deployedge/microsoft-edge-supported-operating-systems)\n* [Nye ressurser for å akselerere overgangen til Edge](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Vanlige spørsmål om livssyklus – Internet Explorer og Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Microsoft Edge-livssykluspolicy](/deployedge/microsoft-edge-support-lifecycle)"
