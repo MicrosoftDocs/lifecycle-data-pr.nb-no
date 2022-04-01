@@ -1,13 +1,13 @@
 ---
 title: Produkter som avvikler støtte for 2028
 description: Finn ut hvilke produkter som vil bli avviklet, som ikke lenger vil bli støttet eller som vil bli flyttet fra vanlig støtte til utvidet støtte i 2028.
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4028550"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116970"
 ---
 # <a name="products-ending-support-in-2028"></a>Produkter hvis støtte avvikles i 2028
 
@@ -39,3 +39,11 @@ Følgende produkter og utgivelser, styrt av de [faste retningslinjene](/lifecycl
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | tirsdag 11. juli 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>Produkter som går over til utvidet støtte
+
+Følgende produkter vil gå fra grunnleggende støtte til utvidet støtte i 2028. Utvidet støtte omfatter sikkerhetsoppdateringer uten ekstra kostnader, samt betalt kundestøtte og betalte ikke-sikkerhetsrelaterte oppdateringer. I tillegg vil Microsoft ikke godta forespørsler om utformingsendringer eller nye funksjoner i perioden med utvidet støtte.
+
+| Produkt | Slutt på grunnleggende støtte |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | tirsdag 11. april 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | tirsdag 11. juli 2028 |

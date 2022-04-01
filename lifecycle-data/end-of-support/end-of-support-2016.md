@@ -1,13 +1,13 @@
 ---
 title: Produkter som avvikler støtte for 2016
 description: Finn ut hvilke produkter som vil bli avviklet, som ikke lenger vil bli støttet eller som vil bli flyttet fra vanlig støtte til utvidet støtte i 2016.
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028902"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117562"
 ---
 # <a name="products-ending-support-in-2016"></a>Produkter hvis støtte avvikles i 2016
 
@@ -20,13 +20,6 @@ Hvis du har spørsmål om kundestøtte for et produkt, kan du kontakte Microsoft
 
 
 
-## <a name="release-end-of-servicing"></a>Utgir slutt på service
-
-Følgende produktutgivelser, dekket av den [moderne policyen](/lifecycle/policies/modern), vil ikke lenger støttes i 2016.
-
-| Produkt | Slutt på service |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager, versjon 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | torsdag 8. desember 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>Produkter som når avslutning for støtte
