@@ -1,13 +1,13 @@
 ---
 title: Produkter som avvikler støtte for 2019
 description: Finn ut hvilke produkter som vil bli avviklet, som ikke lenger vil bli støttet eller som vil bli flyttet fra vanlig støtte til utvidet støtte i 2019.
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4029188"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518240"
 ---
 # <a name="products-ending-support-in-2019"></a>Produkter hvis støtte avvikles i 2019
 
@@ -24,7 +24,6 @@ Følgende produkter, styrt av den [moderne policyen](/lifecycle/policies/modern
 
 | Produkt | Pensjon |
 | --- | --- |
-| [Azure Scheduler](/lifecycle/products/azure-scheduler?branch=live)<br> | mandag 30. september 2019 |
 | [HockeyApp](/lifecycle/products/hockeyapp?branch=live)<br> | lørdag 16. november 2019 |
 
 
@@ -34,6 +33,7 @@ Følgende produktutgielser, dekket av den [moderne policyen](/lifecycle/policies
 
 | Produkt | Slutt på service |
 | --- | --- |
+| [PowerShell, PowerShell Core 6.0](/lifecycle/products/powershell?branch=live)<br> | onsdag 13. februar 2019 |
 | [Visual Studio for Mac, Visual Studio 2017 for Mac](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | fredag 8. mars 2019 |
 | [Windows 10 Enterprise and Education, versjon 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, versjon 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, versjon 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, versjon 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versjon 1709](/lifecycle/products/windows-server?branch=live)<br> | tirsdag 9. april 2019 |
 | [Microsoft Endpoint Configuration Manager, versjon 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | mandag 20. mai 2019 |

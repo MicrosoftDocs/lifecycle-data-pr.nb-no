@@ -1,13 +1,13 @@
 ---
 title: Produkter som avvikler støtte for 2020
 description: Finn ut hvilke produkter som vil pensjoneres, nå slutten av støtte eller gå fra vanlig støtte til utvidet støtte i 2020.
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117599"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518203"
 ---
 # <a name="products-ending-support-in-2020"></a>Produkter hvis støtte avvikles i 2020
 
@@ -38,7 +38,7 @@ Følgende produktutgivelser, dekket av den [moderne policyen](/lifecycle/policie
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versjon 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | fredag 31. januar 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | tirsdag 3. mars 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | fredag 4. september 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | fredag 4. september 2020 |
 | [Microsoft Endpoint Configuration Manager, versjon 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | søndag 27. september 2020 |
 | [Visio-tjenester i SharePoint (i Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | onsdag 30. september 2020 |
 | [Windows 10 Enterprise og Education, versjon 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, versjon 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13. oktober 2020 |

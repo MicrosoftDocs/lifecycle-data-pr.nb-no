@@ -1,13 +1,13 @@
 ---
 title: Produkter som avvikler støtte for 2027
 description: Finn ut hvilke produkter som vil bli avviklet, som ikke lenger vil bli støttet eller som vil bli flyttet fra vanlig støtte til utvidet støtte i 2027.
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117044"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517931"
 ---
 # <a name="products-ending-support-in-2027"></a>Produkter hvis støtte avvikles i 2027
 
@@ -40,4 +40,5 @@ Følgende produkter vil gå fra grunnleggende støtte til utvidet støtte i 2027
 
 | Produkt | Slutt på grunnleggende støtte |
 | --- | --- |
-| [Dynamics 365 for Customer Engagement Apps, versjon 9 (lokal oppdatering)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | tirsdag 12. januar 2027 |
+| [Dynamics 365 for Customer Engagement Apps, versjon 9 (lokal oppdatering)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | tirsdag 12. januar 2027 |
+| [System Center 2022 Data Protection Manager](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[System Center 2022 Operations Manager](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[System Center 2022 Orchestrator](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[System Center 2022 Service Manager](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[System Center 2022 Virtual Machine Manager](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | tirsdag 13. april 2027 |
