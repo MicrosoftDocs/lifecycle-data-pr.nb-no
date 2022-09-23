@@ -1,13 +1,13 @@
 ---
 title: Produkter som avvikler støtte for 2021
 description: Finn ut hvilke produkter som vil bli avviklet, som ikke lenger vil bli støttet eller som vil bli flyttet fra vanlig støtte til utvidet støtte i 2021.
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: nb-NO
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117488"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520842"
 ---
 # <a name="products-ending-support-in-2021"></a>Produkter hvis støtte avvikles i 2021
 
@@ -37,12 +37,12 @@ Følgende produktutgivelser, dekket av den [moderne policyen](/lifecycle/policie
 | Produkt | Slutt på service |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager, versjon 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26. januar, 2021 |
+| [Azure IoT Edge, versjon 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | mandag 1. februar 2021 |
 | [Dynamics 365 Business Central lokal (moderne policy), 2019-utgivelse bølge 2, versjon 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13. april, 2021 |
 | [Windows 10 Enterprise og Education, versjon 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Enterprise og Education, versjon 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home og Pro, versjon 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versjon 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, versjon 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versjon 1909](/lifecycle/products/windows-server?branch=live)<br> | tirsdag 11. mai 2021 |
-| [Microsoft Endpoint Configuration Manager, versjon 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft Endpoint Configuration Manager, versjon 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29. mai, 2021 |
+| [Microsoft Endpoint Configuration Manager, versjon 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29. mai, 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21. august, 2021 |
 | [Microsoft Endpoint Configuration Manager, versjon 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1. oktober, 2021 |
-| [Dynamics 365 Business Central lokal (moderne policy), 2020-utgivelse bølge 1, versjon 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12. oktober, 2021 |
 | [Windows 10 Enterprise og Education, versjon 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home og Pro, versjon 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, versjon 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, versjon 2004](/lifecycle/products/windows-server?branch=live)<br> | 14. desember, 2021 |
 
 
